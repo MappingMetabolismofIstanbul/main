@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Yangın Var!</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: "Montserrat"!important;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: "Montserrat"!important;
+      overflow: hidden; /* Scroll çıkmasını tamamen engeller */
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(4, 1fr);
+      gap: 10px;
+      height: 100vh;
+      padding: 10px;
+      background-color: #ffeef5;
+    }
+
+    .box {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 1.8rem;
+      border-radius: 10px;
+      text-align: center;
+      transition: all 0.2s ease;
+      overflow: hidden;
+    }
+
+    /* Sadece linkli kutular hover etkisi */
+    .box.link:hover {
+      filter: brightness(0.8); /* Rengi koyulaştır */
+    }
+
+    .box.link {
+      cursor: pointer;
+    }
+
+    /* Link olmayan kutular hover efekti almaz */
+    .box:not(.link):hover {
+      filter: none; /* Link olmayan kutular hover efekti almaz */
+    }
+
+    /* Linkli kutular */
+    .box1 { 
+        background-image: url('./images/map-bg.jpg');
+        background-color: rgba(255,255,255,0.5);
+    background-blend-mode: lighten;
+      background-size: cover;
+      background-position: center;
+      font-size: 3rem;
+      color: #ff70ac;
+        grid-column: span 2; grid-row: span 2; }
+    .box2 { background-color: #d19b9b; grid-column: span 2; grid-row: span 1; }
+    .box3 { background-color: #cf91fc; grid-column: span 1; grid-row: span 2; }
+
+    /* Görsel ve düz kutular */
+    .box4 {
+      grid-column: span 1;
+      grid-row: span 1;
+      background-image: url('https://img.freepik.com/premium-photo/rock-table-product-display-jungle-tasmania_31965-4808.jpg?semt=ais_hybrid&w=740');
+      background-size: cover;
+      background-position: center;
+    }
+
+    .box5 {
+      grid-column: span 2;
+      grid-row: span 1;
+      background-image: url('https://picsum.photos/500/200?grayscale');
+      background-size: cover;
+      background-position: center;
+    }
+
+    .box6a {
+      grid-column: span 1;
+      grid-row: span 2; /* box6a iki satır yüksekliğinde */
+      background-color: #ffafd2;
+    }
+
+    .box6b {
+      grid-column: span 1;
+      grid-row: span 1;
+      background-color: #ffdbe9;
+    }
+
+    /* Yeni alt satır kutuları */
+    .box7 {
+      grid-column: span 2;
+      grid-row: span 1;
+      background-image: url('https://picsum.photos/600/200?random=3');
+      background-size: cover;
+      background-position: center;
+    }
+
+    .box8 {
+      grid-column: span 1;
+      grid-row: span 1;
+      background-color: #e0b3ff;
+    }
+
+    .box9 {
+      grid-column: span 1;
+      grid-row: span 1;
+      background-color: #fff4b3;
+    }
+
+    /* Alt satır hizalamayı düzeltmek için */
+    .grid-container {
+      grid-template-rows: 1fr 1fr 1fr 1fr; /* Her satır eşit boyutta */
+    }
+  </style>
+</head>
+<body>
+
+  <div class="grid-container"> 
+    <div class="box box1 link" onclick="navigateTo('map.html')">harita</div>
+    <div class="box box2 link" onclick="navigateTo('about.html')">hakkında</div>
+    <div class="box box3 link" onclick="navigateTo('contact.html')">iletişim</div>
+    <div class="box box4"></div>
+    <div class="box box5"></div>
+    <div class="box box6a"></div> <!-- box6a iki satır yüksekliğinde -->
+    <div class="box box6b"></div>
+    <div class="box box7"></div>
+    <div class="box box8"></div>
+    <div class="box box9"></div>
+  </div>
+
+  <script>
+    function navigateTo(page) {
+      window.location.href = page;
+    }
+  </script>
+
+</body>
+</html>
