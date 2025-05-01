@@ -151,6 +151,21 @@ const locations = [
     "icon":"https://i.ibb.co/tB79KKy/Tekil-4-Kopya-removebg-preview.png",
     "infoBoxVideo": "",
     "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
+
+
+
+    },
+    {
+    "title": "Silahtarağa Elektrik Santrali",
+    "coordinates": [28.978001, 41.014254],
+    "image21": "https://ibb.co/rfQhJt52",
+    "image21_coords_1": "502,555,498,453,508,433,524,413,537,383,548,394,557,414,575,441,581,457,582,570,548,584,508,567",
+    "image21_link_1": "https://dogatmn.github.io/yangin#5",
+    "image21_coords_2": "null",
+    "image21_link_2": "null",
+    "icon":"https://i.ibb.co/tB79KKy/Tekil-4-Kopya-removebg-preview.png",
+    "infoBoxVideo": "",
+    "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
       
 }
 ];
