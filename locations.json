@@ -157,7 +157,7 @@ const locations = [
     },
     {
     "title": "Silahtarağa Elektrik Santrali",
-    "coordinates": [28.978001, 41.014254],
+    "coordinates": [28.946, 41.067],
     "image21": "https://ibb.co/rfQhJt52",
     "image21_coords_1": "502,555,498,453,508,433,524,413,537,383,548,394,557,414,575,441,581,457,582,570,548,584,508,567",
     "image21_link_1": "https://dogatmn.github.io/yangin#5",
