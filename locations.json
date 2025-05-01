@@ -168,4 +168,27 @@ const locations = [
     "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
       
 }
+    {
+    "title": "Atatürk Bulvarı",
+    "coordinates": [28.961, 41.022],
+    "image19": "https://seyler.ekstat.com/img/max/800/H/HJiqnsowbKRzzlgf-637717304038593905.jpg",
+    "image20": "https://i.ibb.co/xSRcXSDT/MEF-AAP-027-BAP-2025-05-01-19-56-47.png",
+    "image21": "https://istanbultarihi.ist/assets/uploads/files/cilt-1/17-sehir-topografyasina-etkisi-bakimindan-osmanli-donemi-istanbul-yanginlari/1-1935teki-galata-yanginini-tasvir-eden-resim-ibb-itfaiye-muzesi.jpg",
+    "image19_coords_1": "114,149,154,179,239,196,209,156",
+    "image19_link_1": "https://dogatmn.github.io/yangin#5",
+    "image19_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
+    "image19_link_2": "https://dogatmn.github.io/yangin#6",
+    "image20_coords_1": "367,580,366,624,479,633,510,622,622,626,805,622,991,622,1034,611,1036,575,839,573,827,536,820,273,811,534,771,489,746,471,726,256,714,435,678,411,667,357,658,405,635,423,592,464,575,457,570,488,555,503,524,524,505,542,480,537,481,558,464,546,457,561,394,562",
+    "image20_link_1": "https://dogatmn.github.io/yangin#5",
+    "image20_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
+    "image20_link_2": "https://dogatmn.github.io/yangin#6",
+    "image21_coords_1": "502,555,498,453,508,433,524,413,537,383,548,394,557,414,575,441,581,457,582,570,548,584,508,567",
+    "image21_link_1": "https://dogatmn.github.io/yangin#5",
+    "image21_coords_2": "null",
+    "image21_link_2": "null",
+    "icon": "https://i.ibb.co/tB79KKy/Tekil-4-Kopya-removebg-preview.png",
+    "infoBoxVideo": "",
+    "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
+      
+}
 ];
