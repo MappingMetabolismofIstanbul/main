@@ -47,28 +47,6 @@ const locations = [
     "infoBoxText": "Açıklama 2."
 },
 {
-    "title": "Kağıthane",
-    "coordinates": [28.946258,41.066943],
-    "image19": "https://seyler.ekstat.com/img/max/800/H/HJiqnsowbKRzzlgf-637717304038593905.jpg",
-    "image20": "https://seyler.ekstat.com/img/max/800/H/HJiqnsowbKRzzlgf-637717304038593905.jpg",
-    "image21": "https://seyler.ekstat.com/img/max/800/H/HJiqnsowbKRzzlgf-637717304038593905.jpg",
-    "image19_coords_1": "114,149,154,179,239,196,209,156",
-    "image19_link_1": "https://dogatmn.github.io/yangin#5",
-    "image19_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
-    "image19_link_2": "https://dogatmn.github.io/yangin#6",
-    "image20_coords_1": "114,149,154,179,239,196,209,156",
-    "image20_link_1": "https://dogatmn.github.io/yangin#5",
-    "image20_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
-    "image20_link_2": "https://dogatmn.github.io/yangin#6",
-    "image21_coords_1": "114,149,154,179,239,196,209,156",
-    "image21_link_1": "https://dogatmn.github.io/yangin#5",
-    "image21_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
-    "image21_link_2": "https://dogatmn.github.io/yangin#6",
-    "icon":"https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
-    "infoBoxVideo": "",
-    "infoBoxText": "Açıklama 3."
-},
-{
     "title": "Kuruçeşme",
     "coordinates": [29.037570,41.060769],
     "image19": "https://seyler.ekstat.com/img/max/800/H/HJiqnsowbKRzzlgf-637717304038593905.jpg",
