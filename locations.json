@@ -175,9 +175,9 @@ const locations = [
     {
     "title": "Atatürk Bulvarı",
     "coordinates": [28.961, 41.022],
-    "image19": "https://seyler.ekstat.com/img/max/800/H/HJiqnsowbKRzzlgf-637717304038593905.jpg",
+    "image19": "",
     "image20": "https://i.ibb.co/xSRcXSDT/MEF-AAP-027-BAP-2025-05-01-19-56-47.png",
-    "image21": "https://istanbultarihi.ist/assets/uploads/files/cilt-1/17-sehir-topografyasina-etkisi-bakimindan-osmanli-donemi-istanbul-yanginlari/1-1935teki-galata-yanginini-tasvir-eden-resim-ibb-itfaiye-muzesi.jpg",
+    "image21": "",
     "image19_coords_1": "114,149,154,179,239,196,209,156",
     "image19_link_1": "https://dogatmn.github.io/yangin#5",
     "image19_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
