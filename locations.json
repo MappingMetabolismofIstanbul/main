@@ -138,7 +138,7 @@ const locations = [
     {
     "title": "Silahtarağa Elektrik Santrali",
     "coordinates": [28.946, 41.067],
-    "image21_anagörsel": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantrali",
+    "image21": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantrali",
     "image21_coords_1_mavna": "2823,1437,2732,1464,2725,1502,2725,1551,2778,1619,2869,1623,2907,1566,2914,1498,2895,1449,2854,1433,2888,1074",
     "image21_link_1": "https://i.ibb.co/Kx62ycRs/MEF-AAP-027-BAP-2025-05-01-20-58-40.jpg",
     "image21_coords_2_trenhattı": "593,302,635,280,684,280,730,261,779,246,813,246,843,253,889,268,949,283,999,302,1063,333,1067,363,1112,363,1101,318,1101,287,1169,314,1142,329,1161,359,1161,416,1165,474,1142,504,1139,557,1131,625,873,512,805,481,794,530,748,519,737,451,714,462,684,466,680,398,646,428,616,379,597,394",
