@@ -152,10 +152,10 @@ const locations = [
     },
     {
     "title": "Atatürk Bulvarı",
-    "coordinates": [28.961, 41.022],
+    "coordinates": [28.955975724055627,41.01659450670048],
     "image20": "https://i.ibb.co/xSRcXSDT/MEF-AAP-027-BAP-2025-05-01-19-56-47.png",
     "image20_coords_1": "4445,1306,4477,1319,4589,1288,4589,1244,4545,1238,4520,1238,4445,1250,4445,1306",
-    "image20_link_1": "https://dogatmn.github.io/yangin#5",
+    "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Kirkcesmeler",
     "image20_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
     "image20_link_2": "https://dogatmn.github.io/yangin#6",
     "image20_coords_3": "2928,1049,2947,1062,2978,1056,2966,975,2959,962,2941,943,2941,968,2934,987",
