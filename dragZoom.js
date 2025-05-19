@@ -137,14 +137,16 @@
 
         },
         move: function(ev, self) {
+             
             if (self.isMoved) {
-/*
+/*              
                 if(ev.clientX - self.relX > 0 && self.x < 0) {
                     self.relX = ev.clientX;
                 }
                 if(ev.clientY - self.relY > 0 && self.y > 0) {
                     self.relY = ev.clientY;
                 }*/
+                $('area').mapster('set', false); 
                 self.y = ev.clientY - self.relY;
                 self.x = ev.clientX - self.relX;
 
@@ -154,6 +156,7 @@
                     top: self.y,
                     left: self.x
                 });
+                
 
                 // self.$element.animate({ top: self.y + 'px', left: self.x + 'px' });
 
@@ -163,7 +166,7 @@
         },
         end: function(ev, self) {
             self.isMoved = false;
-
+            //$('area').mapster('set', true);  
             var offset = self.$element.find('img').offset();
             self.$element.find('canvas').offset(offset);
             

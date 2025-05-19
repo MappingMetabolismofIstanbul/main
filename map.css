@@ -63,11 +63,12 @@ div.mapboxgl-popup-content {
 }
 
 .mapboxgl-popup-close-button {
-    font-size: 20px;
-    padding: 2px 4px;
+    font-size: 26px;
+    padding: 0;
     color: #ff70ac;
     font-weight: 600;
-    width: 24px;
+    width: 28px;
+    height: 30px;
 }
 
 img.thumbImage {
@@ -285,5 +286,9 @@ div.container.detailView .icon-zoom{
 
 .infoImage {
     max-width: 200px;
+}
+
+canvas.mapster_el.showHighLighted {
+    opacity: 1!important;
 }
 

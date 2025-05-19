@@ -115,14 +115,33 @@ var bigImage = function (e, imgIndex, locationIndex) {
     if($(e).parents('.container').hasClass('detailView'))
         return;
 
+    var fromTopPopup = $('.mapboxgl-popup.mapboxgl-popup-anchor-top').length > 0 || $('.mapboxgl-popup.mapboxgl-popup-anchor-top-right').length > 0 || $('.mapboxgl-popup.mapboxgl-popup-anchor-top-left').length > 0;
+
     $(e).parents('.container').addClass('detailView detail' + imgIndex);
 
+    var viewportHeight = map.getCanvas().height;
+
+    var topLat = map.getBounds()._ne.lat;
+    var bottomLat = map.getBounds()._sw.lat;
+    var latDiff = topLat - bottomLat;
+
+    var blankHeight =  viewportHeight - $(map._popups[0].getElement()).height();
+    var centerLat = map._popups[0].getLngLat().lat - (latDiff / 2) + ((latDiff / viewportHeight) * (blankHeight / 4));
+    if(!fromTopPopup)
+        centerLat = map._popups[0].getLngLat().lat + (latDiff / 2) - ((latDiff / viewportHeight) * (blankHeight / 4));
+
+    var centerLng = map._popups[0].getLngLat().lng;
+
+    map.flyTo({
+        center: { lat: centerLat, lng: centerLng }
+    });
+       
     mapElement = document.createElement("map");
     var areaIndex = 1;
     while (locations[locationIndex]["image" + imgIndex + "_coords_" + areaIndex]) {
         
         mapElement.name = "image-map-" + imgIndex + "-" + areaIndex; 
-        mapElement.innerHTML += '<area target="" data-name="all" alt="" title="" href="' + locations[locationIndex]["image" + imgIndex + "_link_" + areaIndex] +
+        mapElement.innerHTML += '<area title="" href="' + locations[locationIndex]["image" + imgIndex + "_link_" + areaIndex] +
             '" coords="' + locations[locationIndex]["image" + imgIndex + "_coords_" + areaIndex] + '" shape="poly">';
         areaIndex++;
     }
@@ -147,11 +166,8 @@ var bigImage = function (e, imgIndex, locationIndex) {
                 }           
             }
         });
-
-        $('area').mapster('highlight');
-        //$('area').on('mouseover', function() { 
-        //    $('img[usemap]').mapster('set', null, { fillColor: '00FF00' });  
-        //});
+        $('area').mapster('set', true);        
+        setTimeout(function(){ $('area').mapster('set', false); }, 500);
 
         var defaultWidth = $('img[usemap]').width();
         var defaultHeight = $('img[usemap]').height();
