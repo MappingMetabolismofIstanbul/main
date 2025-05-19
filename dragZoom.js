@@ -1,4 +1,4 @@
-﻿;
+;
 (function(jQuery, window, document, undfined) {
     var DragZoom = function(ele, opt) {
         this.$element = ele;
