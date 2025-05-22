@@ -216,7 +216,7 @@ const locations = [
     "infoBoxVideo": "",
     "infoBoxText": "",
       
-];
+},
     {
     "title": "Büyük Yangınlar, Beyazıt Kulesi",
     "coordinates": [28.965, 41.011],
@@ -230,4 +230,4 @@ const locations = [
     "infoBoxText": "",
       
 }
-
+];
