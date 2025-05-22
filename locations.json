@@ -218,6 +218,17 @@ const locations = [
       
 },
     {
+   "title": "Waste and Sanitation",
+    "coordinates": [40.875, 28.969],
+    "image19": "https://i.ibb.co/v4KHKYb6/MEF-AAP-027-BAP-2025-05-22-12-55-23.png",
+    "image19_coords_1": "96,619,114,626,122,585,129,555,152,563,152,581,139,593,133,608,137,624,146,641,163,639,174,626,184,626,195,632,202,600,216,600,221,608,223,628,238,637,247,576,270,578,266,542,255,510,238,504,210,514,206,495,182,484,161,478,154,506,139,512,112,514,97,525,94,548",
+    "image19_link_1": "",
+    "icon":"https://i.ibb.co/0RjkmVXM/aray-c-esnaf.png",
+    "infoBoxVideo": "",
+    "infoBoxText": "",
+        
+},
+     {
     "title": "Waste and Sanitation",
     "coordinates": [28.964, 41.002],
     "image19": "https://i.ibb.co/WpqTY9XX/MEF-AAP-027-BAP-2025-05-22-07-51-25.png",
