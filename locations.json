@@ -217,7 +217,7 @@ const locations = [
     "infoBoxText": "",
       
 ];
- {
+    {
     "title": "Büyük Yangınlar, Beyazıt Kulesi",
     "coordinates": [28.965, 41.011],
     "image19": "https://i.ibb.co/nqPKg0Zh/MEF-AAP-027-BAP-2025-05-22-08-30-50.png",
