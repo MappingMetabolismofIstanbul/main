@@ -128,7 +128,7 @@ const locations = [
      {
     "title": "Büyükdere Plajı",
     "coordinates": [29.048957018415035,41.16311524230927],
-    "image20": " https://i.ibb.co/q3WPkWYp/salacak-ana.png",
+    "image20": " https://i.ibb.co/3PLT9M5/b-y-kdere-ana.png",
     "image20_coords_1": "4445,1306,4477,1319,4589,1288,4589,1244,4545,1238,4520,1238,4445,1250,4445,1306",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Kirkcesmeler",
     "image20_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
