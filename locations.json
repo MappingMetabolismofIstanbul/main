@@ -249,4 +249,6 @@ const locations = [
     "icon": "https://i.postimg.cc/W1MGnKt1/deniz-banyo.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
+              
+}
 ];
