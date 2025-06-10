@@ -126,9 +126,9 @@ var bigImage = function (e, imgIndex, locationIndex) {
     var latDiff = topLat - bottomLat;
 
     var blankHeight =  viewportHeight - $(map._popups[0].getElement()).height();
-    var centerLat = map._popups[0].getLngLat().lat - (latDiff / 2) + ((latDiff / viewportHeight) * (blankHeight / 4));
+    var centerLat = map._popups[0].getLngLat().lat - (latDiff / 2) + ((latDiff / viewportHeight) * ((blankHeight / 7) + 15));
     if(!fromTopPopup)
-        centerLat = map._popups[0].getLngLat().lat + (latDiff / 2) - ((latDiff / viewportHeight) * (blankHeight / 4));
+        centerLat = map._popups[0].getLngLat().lat + (latDiff / 2) - ((latDiff / viewportHeight) * ((blankHeight / 7) + 15));
 
     var centerLng = map._popups[0].getLngLat().lng;
 
