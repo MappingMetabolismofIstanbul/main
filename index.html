@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
   <meta charset="UTF-8">
   <title>Urban Metabolism of Istanbul</title>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
   <style>
     :root {
       --pembe: #ff70ab;
@@ -15,6 +18,28 @@
       margin: 0;
       padding: 0;
       box-sizing: border-box;
+    }
+
+    ::-webkit-scrollbar {
+      width: 5px;
+      height: 5px;
+    }
+
+    ::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+      -webkit-border-radius: 10px;
+      border-radius: 10px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      -webkit-border-radius: 10px;
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.3);
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+    }
+
+    ::-webkit-scrollbar-thumb:window-inactive {
+      background: rgba(255, 255, 255, 0.3);
     }
 
     body {
@@ -47,7 +72,7 @@
       font-size: clamp(48px, 12vw, 100px);
       font-weight: 400;
       letter-spacing: 18px;
-      margin-top:-2.3vw;
+      margin-top: -2.3vw;
     }
 
     .svg-curve {
@@ -73,27 +98,27 @@
     }
 
     .container {
-      padding: 1.5vw 0;
+      padding: 1vw 0;
       display: flex;
       justify-content: center;
-      gap: 1.5vw;
+      gap: 1vw;
       flex-wrap: wrap;
     }
 
     .box {
-      width: 31vw;
-      height: 31vw;
+      width: 31.5vw;
+      height: 27vw;
       border-radius: 20px;
       background-color: #c3ff93;
       display: flex;
-      box-shadow: 0 8px 20px #bababa9c;
+      box-shadow: 0 4px 10px #bababa9c;
     }
 
     .box.about {
       justify-content: flex-end;
       align-items: flex-end;
       text-align: right;
-      
+
     }
 
     .box.mapping {
@@ -109,9 +134,26 @@
       justify-content: flex-start;
       align-items: flex-start;
       text-align: left;
-      background-image: url('/images/yanginvar.png');
+      background-image: url('/images/main1.gif');
       background-size: cover;
       background-position: center;
+      border: 2px solid #c3ff93;
+    }
+
+    .box.forth {
+      width: 64vw;
+      background-image: url('/images/main2.gif');
+      background-size: 66vw 29vw;
+      background-position: center;
+      border: 2px solid #c3ff93;
+      padding: 0;
+
+    }
+
+    .box.fifth {
+      justify-content: flex-end;
+      align-items: flex-end;
+      text-align: right;
     }
 
     .box-content {
@@ -131,6 +173,11 @@
       color: var(--pembe);
     }
 
+    .box-info-text {
+      font-size: 0.8vw;
+      color: var(--pembe);
+    }
+
     .box img {
       width: 100%;
       height: 100%;
@@ -147,10 +194,58 @@
       filter: none;
       cursor: default;
     }
+
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 10;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-content {
+      background-color: var(--beyaz);
+      margin: 5vh auto;
+      padding: 10px 30px;
+      border: 2px solid var(--pembe);
+      width: 60vw;
+      max-height: 90vh;
+      border-radius: 20px;
+      font-family: 'Bebas Neue', sans-serif;
+      font-weight: initial;
+      font-variant-caps: initial;
+      color: #060606;
+      position: relative;
+      overflow: auto;
+    }
+
+    .modal-content h3 {
+      font-size: 3vw;
+      color: var(--pembe);
+    }
+
+    .modal-content p {
+      font-size: 1vw;
+      line-height: 1.2;
+      font-family: "Montserrat" !important;
+    }
+
+    .close-btn {
+      position: sticky;
+      top: 0;
+      left: 100%;
+      font-size: 3vw;
+      color: var(--pembe);
+      cursor: pointer;
+    }
   </style>
 </head>
-<body>
 
+<body>
   <div class="header">
     <div class="header-content">
       <h1>URBAN METABOLISM OF</h1>
@@ -158,7 +253,7 @@
     </div>
     <!-- Responsive %60'lık eğri -->
     <svg class="svg-curve" viewBox="0 0 400 30" preserveAspectRatio="none">
-        <path d="M 0 0 L 180 0 L 60 0 C 33.626 -2.066 11.9 30 0 30 L 0 0 Z" fill="var(--pembe)"/>
+      <path d="M 0 0 L 180 0 L 60 0 C 33.626 -2.066 11.9 30 0 30 L 0 0 Z" fill="var(--pembe)" />
     </svg>
 
     <div class="subtitle">
@@ -183,7 +278,122 @@
 
     <div class="box third">
     </div>
+    <div class="box forth">
+    </div>
+    <div class="box fifth">
+      <div class="box-content">
+        <div class="box-info-text">Urban Metabolism of Istanbul © 2025</div>
+      </div>
+    </div>
   </div>
+  <div class="modal" id="aboutModal">
 
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeModal()">&times;</span>
+      <h3>ABOUT THE PROJECT</h3>
+      <p><strong><span>&#xa0;</span></strong></p>
+      <p><strong><span>MEF AAP 027-Interactive Mapping of İstanbul’s Metabolism</span></strong></p>
+      <p><strong><span>&#xa0;</span></strong></p>
+      <p><strong><span>Project period: 2024 April-2025 August.</span></strong></p>
+      <p><strong><span>This Research Supported by:</span></strong><strong><span>&#xa0;
+          </span></strong><strong><span>BAP</span></strong><strong><span>)</span></strong></p>
+      <p><span>This project adopts urban political ecology perspective that challenges the traditional dichotomy between
+          nature and society. It aims to explore urban spaces as a mode of reading socio-natural processes by
+          considering the multidimensional and dynamic relationships that constitute Istanbul’s urban metabolism.
+        </span>In other words, the project aims to investigate—through interactive mapping—whether it is possible to
+        visually represent the spatial traces of complex metabolic flows composed of materials and elements such as
+        water, soil, urban voids, coal, oil, iron, and cement along Istanbul’s continuously evolving and mutually
+        transformative coastline.</p>
+      <p>The natures — continuously re-produced as space — that we seek to understand through the lens of urban
+        metabolism render their formation processes materially visible. This process is of fundamental importance for
+        comprehending the city as a dynamic entity shaped by power relations, political struggles, and material flows.
+      </p>
+      <p>The environmental crises of dense coastal urban areas in a socio-natural manner are rooted in the 19th century
+        and accelerated in the 21st century. Searching the production of nature through waterfronts is growing in
+        importance in terms of understanding the metabolisms of coastal cities. Cities in the 19th century were the main
+        metabolic mediums for both widespread deaths among laboring populations within filthy environments and the
+        enjoyment of the techno-managerial aspects of the modern capitalist urban landscapes. Istanbul is one of these
+        cities.</p>
+      <p>&#xa0;</p>
+      <p><strong><u><span>PROJECT TEAM</span></u></strong></p>
+      <p><strong><span>Project Coordinator:</span></strong><span> Dr. Esra Sert</span></p>
+      <p><span>&#xa0;</span></p>
+      <p><strong><span>Project Asistants: </span></strong><span>Erva Sayar, Emel Öztürk, İlkay Berrak
+          Sevinç,</span><strong><span> </span></strong><span>Aylin Elif Şahin</span></p>
+      <p><span>Doğa Ataman (partial contribution), Bingül Çakacı(partial contribution)</span></p>
+      <p><strong><span>Mapping Consultant:</span></strong><span> Murat Tülek</span></p>
+      <p><strong><span>Web Design and Application:</span></strong><span> Cem Şengezer, Funda Aktan.</span></p>
+      <p><strong><span>Scientfic Advisory Board: </span></strong><span>Prof. Dr. Güven Arif Sargın, Prof. Dr. Murat
+          Güvenç, Prof. Dr. Bülent Tanju</span></p>
+      <p><strong><span>&#xa0;</span></strong></p>
+      <p><strong><span>Archival Material</span></strong></p>
+      <p><span>General Directorate of State Archives of Turkey (Ottoman Archives</span><span>, BOA.)</span></p>
+      <p><span>SALT-Research</span></p>
+      <p><span>Atatürk Library-İBB</span></p>
+      <p><span>ANAMED (Koç University Research Centre for Anatolian Civilisations)</span></p>
+      <p><span>İstanbul Metropolitan Municipality (İBB)</span></p>
+      <p><span>Bibliothèque Nationale de France,département Sciences et techniques</span></p>
+      <p><span>&#xa0;</span></p>
+      <p><strong><u><span>PROJE HAKKINDA</span></u></strong></p>
+      <p><strong><span>MEF AAP 027-İstanbul'un Metabolizmasının İnteraktif
+            Haritalanması</span></strong><br /><strong><span>Proje süresi: 2024 Nisan-2025 Ağustos.</span></strong></p>
+      <p><strong><span>Destekleyen Kuruluş: MEF Üniversitesi BAP</span></strong></p>
+      <p><span>&#xa0;</span></p>
+      <p><span>Bu proje, doğa ve toplum arasındaki geleneksel ayrıma meydan okuyan kentsel politik ekoloji perspektifini
+          benimsiyor.</span><span>&#xa0;</span><span>İstanbul'un kentsel metabolizmasını oluşturan çok boyutlu ve
+          dinamik ilişkileri göz önünde bulundurarak, kentsel mekânları sosyo-doğal süreçleri okumanın bir biçimi olarak
+          keşfetmeyi deniyor.</span><span>&#xa0;</span><span>Başka bir deyişle proje, İstanbul'un sürekli gelişen ve
+          karşılıklı olarak dönüşen kıyısı boyunca su, toprak, kentsel boşluklar, kömür, petrol, demir ve çimento gibi
+          malzeme ve unsurlardan oluşan karmaşık metabolik akışların mekânsal izlerini görsel olarak tasvir etmenin
+          mümkün olup olmadığını interaktif bir haritalama ile araştırmayı amaçlıyor.</span></p>
+      <p><span>&#xa0;</span></p>
+      <p><span>Kentsel metabolizma bağlamıyla anlamaya çalıştığımız -mekân olarak sürekli yeniden üretilen- doğalar,
+          oluşum süreçlerini maddi olarak görünür kılar. Bu süreç, kenti iktidar ilişkileri, siyasal mücadeleler ve
+          malzeme akışları çerçevesinde dinamik bir yapı içinde kavrayabilmek açısından temel önemdedir.</span></p>
+      <p><span>&#xa0;</span></p>
+      <p><span>Yoğun kıyı kentlerinde gözlemlenen çevresel krizler, sosyo-doğal bir bağlamda ele alındığında,
+          kökenlerini 19. yüzyıla dayandırmakta ve 21. yüzyılda ivme kazanarak derinleşmektedir. Kıyı alanları üzerinden
+          doğanın üretimini incelemek, kıyı kentlerinin metabolizmalarını anlamak açısından giderek daha kritik bir önem
+          taşıyor. 19. yüzyıl kentleri, hem sağlıksız ve kirli çevrelerde yaşayan emekçi sınıflar arasında yaygın
+          ölümlerin mekânsal zeminini, hem de modern kapitalist kent peyzajlarının tekno-yönetsel niteliklerinin
+          deneyimlendiği alanları temsil etmiştir. İstanbul da bu kentlerden biridir.</span></p>
+      <p><span>&#xa0;</span></p>
+      <p><strong><span>PROJE EKİBİ</span></strong></p>
+      <p><strong><span>Proje Koordinatörü: </span></strong><span>Dr. Esra Sert</span></p>
+      <p><strong><span>Proje Asistanları: </span></strong><span>Erva Sayar, Emel Öztürk, İlkay Berrak Sevinç, Aylin Elif
+          Şahin</span><strong><span>, </span></strong><span>Doğa Ataman (kısmi katkı), Bingül Çakacı(kısmi
+          katkı).</span></p>
+      <p><strong><span>Web Tasarım ve Uygulama: </span></strong><span>Cem Şengezer, Funda Aktan</span></p>
+      <p><strong><span>Haritalama Danışmanı: </span></strong><span>Murat Tülek</span></p>
+      <p><strong><span>Bilimsel Danışma Kurulu: </span></strong><span>Prof. Dr. Güven Arif Sargın, Prof. Dr. Murat
+          Güvenç, Prof. Dr. Bülent Tanju</span></p>
+      <p><span>&#xa0;</span></p>
+      <p><strong><span>Arşivinden Yararlanılan Kurumlar</span></strong></p>
+      <p><span>T.C. Cumhurbaşkanlığı Devlet Arşivleri Başkanlığı (Osmanlı Arşivi)-BOA</span></p>
+      <p><span>SALT-Araştırma</span></p>
+      <p><span>Atatürk Kitaplığı-İBB</span></p>
+      <p><span>ANAMED-Koç Üniversitesi Anadolu Medeniyetleri Araştırma Merkezi</span></p>
+      <p><span>İstanbul Büyükşehir Belediyesi</span></p>
+      <p><span>Bibliothèque Nationale de France, département Sciences et techniques</span></p>
+
+    </div>
+  </div>
+  <script>
+    document.querySelector('.box.about').addEventListener('click', function () {
+      document.getElementById('aboutModal').style.display = 'block';
+    });
+
+    function closeModal() {
+      document.getElementById('aboutModal').style.display = 'none';
+    }
+
+    window.addEventListener('click', function (event) {
+      const modal = document.getElementById('aboutModal');
+      if (event.target === modal) {
+        closeModal();
+      }
+    });
+  </script>
 </body>
+
 </html>
