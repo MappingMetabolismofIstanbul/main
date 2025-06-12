@@ -138,8 +138,6 @@ const locations = [
     "infoBoxVideo": "",
     "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
 
-
-
     },
     {
     "title": "Silahtarağa Elektrik Santrali",
@@ -163,8 +161,8 @@ const locations = [
     "title": "Gecekondular",
     "coordinates": [28.910,40.985],
     "image20": "https://i.ibb.co/j9tBX3Y9/MEF-AAP-027-BAP-2025-06-12-19-54-04.png",
-    "image20_coords_1": "",
-    "image20_link_1": "",
+    "image20_coords_1": "433,733,582,752,700,702,775,702,1045,767,1023,770,1023,901,1008,916,1008,935,1089,944,1104,1137,821,1140,809,1159,706,1162,625,1140,613,957,538,941,520,916,442,898",
+    "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Gecekondular1.Link",
     "image20_coords_2": "",
     "image20_link_2": "",
     "image20_coords_3": "",
