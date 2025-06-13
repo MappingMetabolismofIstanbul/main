@@ -182,7 +182,7 @@ const locations = [
     "image20": "https://i.ibb.co/xtrdGJmT/MEF-AAP-027-BAP-2025-06-13-07-59-41.png ",
     "image20_coords_1": "3977,1256,3977,1297,4006,1314,4129,1297,4123,1238,4082,1238,4006,1250,3977,1256",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Kirkcesmeler",
-    "image20_coords_2": "2467,1051,2496,1062,2513,1056,2508,1004,2502,980,2473,986,2473,1039",
+    "image20_coords_2": "2467,1059,2473,989,2502,989,2508,1070,2467,1070,2478,1070",
     "image20_link_2": "https://dogatmn.github.io/yangin#6",
     "image20_coords_3": "2519,1414,2519,1478,2560,1489,2589,1489,2653,1519,2776,1484,2782,1414,2677,1373,2595,1397",
     "image20_link_3": "https://dogatmn.github.io/yangin#6",
