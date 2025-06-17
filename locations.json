@@ -4,9 +4,9 @@ const locations = [
     "coordinates": [28.974, 41.014],
     "image19": "./images/Hocapaşayangını.png",
     "image19_coords_1": "716,951,720,928,733,905,752,884,779,863,797,851,816,836,833,826,851,834,874,843,899,841,903,826,916,811,924,818,930,826,949,818,965,816,970,795,994,793,994,816,1011,809,1015,820,1028,820,1038,807,1040,790,1046,771,1055,746,1046,730,1048,717,1057,713,1055,701,1063,688,1065,672,1065,651,1078,641,1090,630,1094,614,1096,603,1082,599,1096,589,1107,578,1117,570,1129,568,1138,558,1131,549,1142,541,1154,533,1173,537,1177,526,1183,529,1188,516,1194,510,1200,520,1202,526,1188,535,1188,541,1196,543,1192,551,1185,560,1179,551,1167,553,1156,562,1167,564,1165,576,1146,574,1161,583,1154,589,1134,589,1131,599,1134,589,1125,612,1121,620,1127,626,1134,634,1129,643,1134,649,1146,655,1152,672,1167,672,1171,674,1165,684,1161,697,1158,709,1171,722,1171,736,1165,746,1173,763,1171,790,1167,805,1158,834,1152,846,1148,859,1136,873,1121,877,1096,883,1075,888,1040,892,990,904,972,908,922,919,899,921,866,925,837,933,820,941,789,946,760,952,739,952",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/HocapasaYangini/",
-    "icon":"https://i.ibb.co/mCqS4jCC/s-reyya-icon.png",
-    "infoBoxVideo": "https://i.ibb.co/tT35G8cX/Hocapa-ayang-n-2.gif",
+    "image19_link_1": "",
+    "icon":"",
+    "infoBoxVideo": "",
     "infoBoxImage": "./images/fire.gif",
     "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır. 1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
       
