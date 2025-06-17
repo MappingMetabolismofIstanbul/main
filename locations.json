@@ -73,7 +73,7 @@ const locations = [
     {
     "title": "Gezi Parkı",
     "coordinates": [28.986947810850292,41.03896911610457],
-    "image20": "https://i.ibb.co/B82zqB6/moda-ana.png",
+    "image20": "./images/geziparkı.png",
     "image20_coords_1": "554,853,543,874,1932,881,1834,853,1335,853,1182,728,1370,728,1346,717,589,717,568,731,1119,728,1252,853",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/ModaBeach-I",
     "image20_coords_2": "1834,1136,1837,1153,1918,1153,1984,1157,2057,1160,2144,1160,2148,1153,2141,1143,2134,1132,2022,1136,1956,1136,1834,1136",
