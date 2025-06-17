@@ -1,10 +1,8 @@
 const locations = [
     {
-    "title": "1865 Hocapaşa Yangını",
-    "coordinates": [28.978001, 41.014254],
-    "image19": "./images/hocapasa1.jpg",
-    "image20": "./images/hocapasa2.jpg",
-    "image21": "./images/hocapasa3.jpg",
+    "title": "Hocapaşa Yangını",
+    "coordinates": [28.974, 41.014],
+    "image19": "./images/Hocapaşayangını.png",
     "image19_coords_1": "130,186,123,164,138,129,160,117,176,124,191,134,197,146,210,161,229,174,213,181,185,189,155,192",
     "image19_link_1": "https://dogatmn.github.io/yangin#5",
     "image19_coords_2": "218,253,302,229,326,185,378,203,509,167,546,162,398,225,272,265",
