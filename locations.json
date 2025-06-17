@@ -104,7 +104,7 @@ const locations = [
 },
     {
     "title": "Salacak Plajı",
-    "coordinates": [29.006623202565297,41.02145568856639],
+    "coordinates": [29.006593549352583,41.021440068757414],
     "image20": " https://i.ibb.co/q3WPkWYp/salacak-ana.png",
     "image20_coords_1": "1666,963,1735,1258,1941,1206,1874,921",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SalacakBeach",
