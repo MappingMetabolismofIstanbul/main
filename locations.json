@@ -45,7 +45,7 @@ const locations = [
     "image20_coords_2": "2285,723,2434,723,2468,726,2556,739,2593,729,2652,715,2705,723,2750,726,2758,737,2724,803,2710,811,2561,814,2367,811,2285,811,2221,801,2231,777",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/KurucesmeKomurAdasi",
     "image20_coords_3":"2218,905,2175,950,2189,990,2237,1003,2269,1006,2287,958,2271,915,2255,907,2274,742,2242,899",
-    "image20_link_3": "https://mappingmetabolismofistanbul.github.io/KurucesmeVeSilahtaragaKomurMavnasi",
+    "image20_link_3": "https://mappingmetabolismofistanbul.github.io/KurucesmeKomurMavnasi",
     "image20_coords_4":"1220,697,1510,747,1582,766,1625,753,1627,790,1710,801,1776,790,1837,803,1811,856,1931,918,1928,968,2000,965,2048,979,2117,973,2120,912,2040,894,2050,838,1994,814,1986,777",
     "image20_link_4":"https://mappingmetabolismofistanbul.github.io/KurucesmeKomurDepolari",
     "icon":"https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
