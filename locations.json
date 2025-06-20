@@ -11,7 +11,7 @@ const locations = [
 },
 {
     "title": "Maltepe",
-    "coordinates": [29.112,40.935],
+    "coordinates": [29.122957475156003,40.9259935252752],
     "image20": "https://i.ibb.co/Pz3JSc9x/s-reyya-ana.png",
     "image21": "https://i.ibb.co/hRmJpcjn/MEF-AAP-027-BAP-2025-06-18-10-07-29.png",
     "image20_coords_1": "1783,990,1783,1201,2171,869,2171,769",
