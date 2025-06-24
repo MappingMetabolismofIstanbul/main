@@ -137,7 +137,7 @@ const locations = [
     {
     "title": "Silahtarağa Elektrik Santrali",
     "coordinates": [28.946, 41.067],
-    "image20": "https://i.ibb.co/hR859TKS/MEF-AAP-027-BAP-2025-06-11-18-14-43.png",
+    "image20": "https://i.ibb.co/2Y6QKznr/MEF-AAP-027-BAP-2025-06-24-18-13-29.png",
     "image20_coords_1": "2528,644,3504,1003,3488,968,3519,956,3578,925,3597,952,3660,948,3648,909,3699,898,3769,933,3804,921,3851,948,3843,1011,3808,1023,3851,1058,3828,1073,3828,1116,3859,1116,3878,1093,4003,1124,3976,1389,3761,1382,3601,1378,3629,1346,3754,1335,3781,1175,3234,1300,3187,1276,3125,1311,3055,1214,3418,1097,2477,808",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantrali1.link",
     "image20_coords_2": "2684,1440,2695,1507,2754,1549,2844,1553,2891,1471,2879,1409,2859,1374,2824,1366,2852,1073,2781,1378,2731,1386,2699,1409",
@@ -148,6 +148,8 @@ const locations = [
     "image20_link_4":"https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
     "image20_coords_5":"4007,1208,3980,1270,4011,1337,3996,1508,4132,1508,4222,1504,4218,1458,4249,1309,4226,1239,4222,1180,4195,1223,4160,1239,4148,1337,4093,1376,4082,1309,4074,1243,4062,1196,4066,1145,4031,1145,4031,1192",
     "image20_link_5":"https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliCalisanlari",
+    "image20_coords_6":"367,212,395,248,455,256,479,288,511,268,535,296,555,349,588,349,592,296,620,296,941,445,937,369,969,284,953,244,953,192,981,196,981,168,901,136,901,180,909,216,869,200,816,160,676,136,644,112,571,116,483,136,427,140,395,148",
+    "image20_link_6" :"https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliDekovilHatti",
     "icon":"https://i.ibb.co/9H8JqqZ7/image-26.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
