@@ -52,6 +52,15 @@ const locations = [
     "infoBoxText": ""
 },
 {
+    "title": "Zonguldak Kömür Madenleri",
+    "coordinates": [31.796,41.456],
+    "image20": "https://i.ibb.co/6RY8Rxhq/MEF-AAP-027-BAP-2025-05-22-14-15-16.png",
+    "image20_coords_1": "",
+    "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
+    "icon":"https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
+    "infoBoxText": ""
+    },
+{
     "title": "Moda",
     "coordinates": [29.026,40.980],
     "image20": "https://i.ibb.co/B82zqB6/moda-ana.png",
