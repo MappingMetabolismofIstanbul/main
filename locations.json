@@ -90,6 +90,8 @@ const locations = [
     "image20_link_6": "ANIT",
     "image20_coords_7": "3480,1873,3385,1931,3397,1939,3402,2030,3368,2034,3373,2129,3575,2117,3608,2112,3596,2096,3575,2083,3571,1939,3583,1926",
     "image20_link_7": "https://mappingmetabolismofistanbul.github.io/TaksimWaterDistributionChamber",
+    "image20_coords_8": "",
+    "image20_link_8": "ayaspaşa",
     "icon":"https://i.ibb.co/1fdBS25p/gezi-icon.png",
     "infoBoxVideo": "",
     "infoBoxText": "Açıklama 5."
