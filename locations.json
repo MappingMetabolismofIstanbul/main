@@ -104,7 +104,7 @@ const locations = [
     "image21_link_1": "yarışma",
      "image21_coords_2": "",
     "image21_link_2": "",
-    "image21_coords_3": "",
+    "image21_coords_3": "1350,2915,1308,2906,1290,2970,1245,2963,1214,3006,1245,3066,1251,3112,1260,3178,1260,3229,1314,3257,1335,3181,1378,3178,1378,3211,1426,3247,1453,3235,1444,3157,1529,3124,1486,3039,1444,3057,1426,3021,1384,3006,1378,2921",
     "image21_link_3": "https://mappingmetabolismofistanbul.github.io/-StrugglesResistances",
     "icon":"https://i.ibb.co/1fdBS25p/gezi-icon.png",
     "infoBoxVideo": "",
