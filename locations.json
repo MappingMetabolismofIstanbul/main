@@ -34,7 +34,7 @@ const locations = [
     "image21_link_5": "https://mappingmetabolismofistanbul.github.io/maltepe",
     "icon":"https://i.ibb.co/mCqS4jCC/s-reyya-icon.png",
     "infoBoxImage": "./images/süreyya-giff.gif",
-    "infoBoxText": "Açıklama 2."
+    "infoBoxText": ""
 },
 {
     "title": "Kuruçeşme Kömür Depoları",
@@ -79,7 +79,7 @@ const locations = [
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/ModaBeach-II",
     "icon":"https://i.ibb.co/q3Ly56n8/moda-icon.png",
     "infoBoxVideo": "",
-    "infoBoxText": "Açıklama 5."
+    "infoBoxText": ""
 },
     {
     "title": "Gezi Parkı",
@@ -108,7 +108,7 @@ const locations = [
     "image21_link_3": "https://mappingmetabolismofistanbul.github.io/-StrugglesResistances",
     "icon":"https://i.ibb.co/1fdBS25p/gezi-icon.png",
     "infoBoxVideo": "",
-    "infoBoxText": "Açıklama 5."
+    "infoBoxText": ""
 },
     {
     "title": "Yenikapı",
