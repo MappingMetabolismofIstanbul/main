@@ -235,7 +235,7 @@ const locations = [
     {
     "title": "Umumi Deniz Banyosu",
     "coordinates": [29.00592403824903, 41.02136278792656],
-    "image19": "https://i.ibb.co/zWvd2PnT/MEF-AAP-027-BAP-2025-05-22-07-31-37.png",
+    "image19": "./images/Umumi Deniz Banyoları.png",
     "image19_coords_1": "197,769,199,634,296,637,386,656,621,658,736,623,807,629,807,768",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/Public-Seabaths",
     "icon": "https://i.ibb.co/gFcH7VtR/deniz-banyo-ikonn.png",
