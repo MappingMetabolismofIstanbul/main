@@ -61,6 +61,16 @@ const locations = [
     "infoBoxText": ""
     },
 {
+    "title": "Boğaziçi Köprüsü",
+    "coordinates": [29.033,41.046],
+    "image20": "",
+    "image20_coords_1": "",
+    "image20_link_1": "",
+    "icon":"https://i.ibb.co/s951239b/bo-azi-i-k-pr-s-ikon-2207.png",
+    "infoBoxText": ""
+    },
+
+{
     "title": "Taksim Suyolu",
     "coordinates": [],
     "image19": "https://i.ibb.co/TxGj0k11/MEF-AAP-027-BAP-2025-07-14-20-16-11.png",
