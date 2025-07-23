@@ -104,7 +104,7 @@ const locations = [
     {
     "title": "Gezi Parkı",
     "coordinates": [28.986947810850292,41.03896911610457],
-    "image20": "https://i.ibb.co/RkcPY2H7/GEZ-SON-MURAL-ND-RME.png",
+    "image20": "https://i.ibb.co/v4Y1Tj49/abb.png",
     "image21": "https://i.ibb.co/FMMP1j1/aa.png",
     "image20_coords_1": "2076,1149,2076,1323,2266,1323,2266,1149",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/TaksimGeziPark",
