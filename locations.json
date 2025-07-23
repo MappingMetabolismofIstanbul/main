@@ -115,7 +115,7 @@ const locations = [
     "image20_coords_4": "1300,656,1308,762,1304,1560,2425,1557,2421,1454,2421,656,2322,802,2319,1450,1410,1450,1410,762,2300,762,2322,799,2425,656",
     "image20_link_4": "https://mappingmetabolismofistanbul.github.io/ArtilleryBarracks",
     "image20_coords_5": "2935,1601,2935,1688,2927,1696,2927,1729,2922,1762,2906,1762,2906,1787,2960,1791,3022,1787,3017,1758,3005,1750,2997,1692,2993,1679,2993,1601,2968,1597",
-    "image20_link_5": "ANIT",
+    "image20_link_5": "https://mappingmetabolismofistanbul.github.io/TaksimSquare/",
     "image20_coords_6": "3480,1873,3385,1931,3397,1939,3402,2030,3368,2034,3373,2129,3575,2117,3608,2112,3596,2096,3575,2083,3571,1939,3583,1926",
     "image20_link_6": "https://mappingmetabolismofistanbul.github.io/TaksimWaterDistributionChamber",
     "image20_coords_7": "3368,173,3307,161,3249,161,3195,157,3133,161,3100,182,3112,210,3187,215,3265,219,3302,244,3410,219,3406,190",
