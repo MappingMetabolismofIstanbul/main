@@ -81,7 +81,7 @@ const locations = [
     },
 {
     "title": "Taksim Suyolu",
-    "coordinates": [ 29.022,41.108],
+    "coordinates": [29.022,41.108],
     "image19": "https://i.ibb.co/TxGj0k11/MEF-AAP-027-BAP-2025-07-14-20-16-11.png",
     "image19_coords_1": "513,1766,40",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/TaksimMaksemi",
@@ -102,7 +102,7 @@ const locations = [
 {
 
     "title": "Kırkçeşme Suyolu",
-    "coordinates": [ 28.911,41.076], 
+    "coordinates": [28.911,41.076], 
     "image19": "https://i.ibb.co/xK7BwMqH/k-rk-e-me-suyolu-10-05-2025.jpg",
     "image19_coords_1": "685,332,20",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KirazliBend",
