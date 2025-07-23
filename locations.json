@@ -82,11 +82,21 @@ const locations = [
 
 {
     "title": "Taksim Suyolu",
-    "coordinates": "",
+    "coordinates": [ 29.022,41.108],
     "image19": "https://i.ibb.co/TxGj0k11/MEF-AAP-027-BAP-2025-07-14-20-16-11.png",
     "image19_coords_1": "359,1445,390,1399,394,1355,376,1334,370,1295,379,1264,398,1241,425,1221,444,1209,458,1181,446,1130,437,1066,426,1033,429,1002,456,945,495,890,516,892,521,855,522,832,531,811,536,779,536,746,529,709,523,691,510,673,481,632,450,605,428,593,399,584,379,563,388,541,393,523,380,509,379,479,381,448,416,414,453,385,480,358,489,325,501,294,513,280",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
     "icon":"https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
+    "infoBoxText": "",
+    },
+{
+
+    "title": "Kırkçeşme Suyolu",
+    "coordinates": [ 28.911,41.076], 
+    "image19": "https://i.ibb.co/93G6CfYc/MEF-AAP-027-BAP-2025-07-23-17-25-20.png",
+    "image19_coords_1": "",
+    "image19_link_1": "",
+    "icon":"",
     "infoBoxText": "",
     },
 {
