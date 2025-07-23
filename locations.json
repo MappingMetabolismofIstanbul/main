@@ -79,7 +79,6 @@ const locations = [
     "icon":"",
     "infoBoxText": ""
     },
-
 {
     "title": "Taksim Suyolu",
     "coordinates": [ 29.022,41.108],
@@ -225,7 +224,7 @@ const locations = [
     "infoBoxVideo": "",
     "infoBoxText": "",
       
-     },
+    },
      {
     "title": "Büyükdere Plajı",
     "coordinates": [29.048957018415035,41.16311524230927],
