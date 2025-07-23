@@ -94,6 +94,12 @@ const locations = [
     "image19_link_4":"https://mappingmetabolismofistanbul.github.io/TopuzluBend",
     "image19_coords_5": "770,230,49",
     "image19_link_5": "https://mappingmetabolismofistanbul.github.io/ValideBendi",
+    "image19_coords_6": "455,1820,455,1963,505,1938,560,1906,559,1813",
+    "image19_link_6": " https://mappingmetabolismofistanbul.github.io/TaksimCesmeler",
+    "infoBoxVideo": "",
+    "infoBoxText": ""
+   
+    
     
     "icon":"https://i.ibb.co/s9TXmBXX/suyollar-ikon.png",
     "infoBoxText": "",
