@@ -9,6 +9,16 @@ const locations = [
     "infoBoxVideo": "https://i.ibb.co/JWvJxHKD/1-1-1.gif",
     "infoBoxText": "1865 Hocapaşa Yangını Osmanlı’da bilinen büyük yangınlardan biri 1865 Hocapaşa Yangını’dır. Bu yangında kayda geçen 1007 bina yanmış (Doğan, 2019), yangın sonrası bölgede büyük bir yıkım ve tahribat yaşanmış, dahası birçok insan evsiz kalmıştır.",
 },
+    {
+    "title": "Ataşehir Finans Merkezi",
+    "coordinates": [29.108746403882588,41.00167521931391],
+    "image19": "",
+    "image19_coords_1": "",
+    "image19_link_1": "",
+    "icon":"https://i.ibb.co/VWGZKKxx/ata-ehir-png.png",
+    "infoBoxVideo": "",
+    "infoBoxText": "",
+},
 {
     "title": "Maltepe",
     "coordinates": [29.122957475156003,40.9259935252752],
