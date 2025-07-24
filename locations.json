@@ -67,16 +67,16 @@ const locations = [
     "image20": "https://i.ibb.co/VW5f1dkH/MEF-AAP-027-BAP-2025-07-08-07-27-56.png",
     "image20_coords_1": "221,228,264,240,293,262,323,260,351,260,376,262,401,262,408,280,439,280,466,287,486,300,520,305,554,305,580,312,572,338,590,359,654,370,706,388,737,388,774,390,800,392,798,404,800,424,807,450,821,466,843,466,877,473,903,464,955,446,1072,484,1067,462,1050,435,991,400,928,390,904,379,939,312,893,289,841,299,810,312,774,310,742,305,704,299,661,298,677,254,614,254,558,251,518,244,480,234,437,231,396,222,356,215,320,207,278,197,248,189,235,189,221,197",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
-    "icon":"https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
+    "icon": "https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
     "infoBoxText": ""
     },
 {
     "title": "Boğaziçi Köprüsü",
     "coordinates": [29.033,41.046],
     "image20": "",
-    "image20_coords_1":"",
+    "image20_coords_1": "",
     "image20_link_1": "",
-    "icon":"",
+    "icon": "",
     "infoBoxText": ""
     },
 {
@@ -87,7 +87,7 @@ const locations = [
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/ModaBeach-I",
     "image20_coords_2": "1834,1136,1837,1153,1918,1153,1984,1157,2057,1160,2144,1160,2148,1153,2141,1143,2134,1132,2022,1136,1956,1136,1834,1136",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/ModaBeach-II",
-    "icon":"https://i.ibb.co/q3Ly56n8/moda-icon.png",
+    "icon": "https://i.ibb.co/q3Ly56n8/moda-icon.png",
     "infoBoxVideo": "",
     "infoBoxText": ""
 },
