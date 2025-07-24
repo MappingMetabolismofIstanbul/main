@@ -353,15 +353,4 @@ const locations = [
     "infoBoxText": "",
     
 },
-     {
-    "title": "Kanal İstanbul",
-    "coordinates": [28.646,41.188],
-    "image21": "https://i.ibb.co/rLkGNj8/MEF-AAP-027-BAP-PART-II-2025-07-23-18-29-05.png",
-    "image21_coords_1": "",
-    "image21_link_1": "",
-    "icon": "https://i.ibb.co/ccG7BT2M/kanalicon.png",
-    "infoBoxVideo": "",
-    "infoBoxText": "",
-    
-} 
 ];
