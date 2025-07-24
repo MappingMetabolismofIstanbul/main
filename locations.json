@@ -19,6 +19,16 @@ const locations = [
     "infoBoxVideo": "",
     "infoBoxText": "",
 },
+   {
+    "title": "Kanal İstanbul",
+    "coordinates": [28.646,41.188],
+    "image19": "",
+    "image19_coords_1": "",
+    "image19_link_1": "",
+    "icon": "",
+    "infoBoxVideo": "",
+    "infoBoxText": "",
+},
 {
     "title": "Maltepe",
     "coordinates": [29.122957475156003,40.9259935252752],
