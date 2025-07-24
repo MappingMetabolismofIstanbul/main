@@ -54,11 +54,11 @@ const locations = [
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
     "image20_coords_2": "2285,723,2434,723,2468,726,2556,739,2593,729,2652,715,2705,723,2750,726,2758,737,2724,803,2710,811,2561,814,2367,811,2285,811,2221,801,2231,777",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/KurucesmeKomurAdasi",
-    "image20_coords_3":"2218,905,2175,950,2189,990,2237,1003,2269,1006,2287,958,2271,915,2255,907,2274,742,2242,899",
+    "image20_coords_3": "2218,905,2175,950,2189,990,2237,1003,2269,1006,2287,958,2271,915,2255,907,2274,742,2242,899",
     "image20_link_3": "https://mappingmetabolismofistanbul.github.io/KurucesmeKomurMavnasi",
-    "image20_coords_4":"1305,755,1321,604,1428,604,1433,647,1478,641,1494,609,1686,609,1691,731,1760,747,1768,604,1872,604,1880,734,1859,769,1955,769,1933,742,1923,606,2058,620,2090,601,2064,551,1960,535,1925,279,1848,322,1790,362,1726,463,1694,399,1582,505,1252,492,1225,508,1236,737",
-    "image20_link_4":"https://mappingmetabolismofistanbul.github.io/KurucesmeKomurDepolari",
-    "icon":"https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
+    "image20_coords_4": "1305,755,1321,604,1428,604,1433,647,1478,641,1494,609,1686,609,1691,731,1760,747,1768,604,1872,604,1880,734,1859,769,1955,769,1933,742,1923,606,2058,620,2090,601,2064,551,1960,535,1925,279,1848,322,1790,362,1726,463,1694,399,1582,505,1252,492,1225,508,1236,737",
+    "image20_link_4": "https://mappingmetabolismofistanbul.github.io/KurucesmeKomurDepolari",
+    "icon": "https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
     "infoBoxText": ""
 },
 {
