@@ -80,62 +80,6 @@ const locations = [
     "infoBoxText": ""
     },
 {
-    "title": "Taksim Suyolu",
-    "coordinates": [29.022,41.108],
-    "image19": "https://i.ibb.co/TxGj0k11/MEF-AAP-027-BAP-2025-07-14-20-16-11.png",
-    "image19_coords_1": "513,1766,40",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/TaksimMaksemi",
-    "image19_coords_2":"734,2032,735,2125,720,2243,797,2226,825,2229,808,2034",
-    "image19_link_2":"https://mappingmetabolismofistanbul.github.io/TaksimSuTerazisi",
-    "image19_coords_3":"695,198,48",
-    "image19_link_3": "https://mappingmetabolismofistanbul.github.io/YeniBend",
-    "image19_coords_4":  "648,304,47",
-    "image19_link_4":"https://mappingmetabolismofistanbul.github.io/TopuzluBend",
-    "image19_coords_5": "770,230,49",
-    "image19_link_5": "https://mappingmetabolismofistanbul.github.io/ValideBendi",
-    "image19_coords_6": "455,1820,455,1963,505,1938,560,1906,559,1813",
-    "image19_link_6": "https://mappingmetabolismofistanbul.github.io/TaksimCesmeler",
-    "icon": "https://i.ibb.co/s9TXmBXX/suyollar-ikon.png",
-    "infoBoxVideo": "",
-    "infoBoxText": ""
-    },
-{
-
-    "title": "Kırkçeşme Suyolu",
-    "coordinates": [28.911,41.076], 
-    "image19": "https://i.ibb.co/xK7BwMqH/k-rk-e-me-suyolu-10-05-2025.jpg",
-    "image19_coords_1": "685,332,20",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KirazliBend",
-    "image19_coords_2": "483,1273,481,1324,583,1313,587,1279",
-    "image19_link_2": "https://mappingmetabolismofistanbul.github.io/KirkcesmeSuyoluKirkcesmeler",
-    "image19_coords_3": "833,1311,816,1338,767,1337,716,1321,699,1297,705,1254,702,1231,678,1209,656,1183,639,1160,629,1147,604,1155,567,1142,537,1120,514,1096,531,1075,503,1062,491,1024,490,987,475,960,441,950,440,920,413,893,401,826,417,804,433,770,460,747,467,718,416,720,470,686,443,679,411,663,396,626,364,598,347,554,349,511,374,471,410,457,446,473,484,484,518,437,542,427,569,380,595,366,624,349,642,319,675,259,659,278,628,320,608,343,577,367,541,399,535,436,500,473,464,468,429,448,387,454,349,483,337,534,359,565,409,642,433,662,461,673,433,702,437,725,457,729,438,750,389,830,409,907,458,941,494,970,477,1007,478,989,471,998,481,1049,538,1056,518,1081,554,1126,588,1137,611,1143,636,1137,673,1196,713,1229,710,1281,720,1314,756,1324,800,1330",
-     "image19_link_3": "https://mappingmetabolismofistanbul.github.io/KirkCesmeSuyolu",
-    "icon":"https://i.ibb.co/s9TXmBXX/suyollar-ikon.png",
-    "infoBoxText": ""
-    },
-{
-    "title": "Halkalı Suyolu",
-    "coordinates": [28.904,41.030], 
-    "image19": "https://i.ibb.co/v6vdPtNd/7-06-halkal-su-yolu.jpg",
-    "image19_coords_1": "921,1061,935,1328,997,1322,997,1081",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/HalkaliSuyoluSuKemerleri",
-    "image19_coords_2": "1440,2381,1444,2623,1587,2615,1582,2387",
-    "image19_link_2": "https://mappingmetabolismofistanbul.github.io/HalkaliSuyoluSuTerazisi",
-    "icon":"https://i.ibb.co/s9TXmBXX/suyollar-ikon.png",
-    "infoBoxText": ""
-    },
-{
-    "title": "Hamidiye Suyolu",
-    "coordinates": [28.987,41.107], 
-    "image19": "https://i.ibb.co/Fqj2f24s/hamidiye-suyolu.jpg",
-    "image19_coords_1": "699,2430,692,2639,790,2647,920,2572,919,2426",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/HamidiyeSuyoluCesme",
-    "image19_coords_2": "822,156,746,101,640,166,529,243,529,285,682,341,678,461,702,475,791,492,890,602,979,730,997,809,910,882,864,975,868,1079,957,1129,939,1229,1113,1275,1132,1381,1056,1433,953,1454,949,1628,882,1709,763,1788,688,1854,519,1978,396,2001,265,2014,241,2126,172,2165,77,2184,139,2193,226,2161,272,2088,283,2033,349,2027,508,2001,792,1796,953,1680,974,1594,971,1471,1089,1442,1147,1379,1129,1260,955,1217,976,1124,882,1056,906,913,1014,810,937,690,856,573,783,506,726,487,679,500,640,461,664,371,638,335,561,307,503,266,563,203,701,115,775,91,829,138",
-    "image19_link_2": "https://mappingmetabolismofistanbul.github.io/HamidiyeSuyolu",
-    "icon":"https://i.ibb.co/s9TXmBXX/suyollar-ikon.png",
-    "infoBoxText": ""
-    },
-{
     "title": "Moda",
     "coordinates": [29.026,40.980],
     "image20": "https://i.ibb.co/B82zqB6/moda-ana.png",
