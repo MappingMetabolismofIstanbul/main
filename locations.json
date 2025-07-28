@@ -22,7 +22,7 @@ const locations = [
      {
     "title": "Eminönü Meydanı",
     "coordinates": [28.970949421623917,41.01743771093251],
-    "image20": "https://i.ibb.co/spZJh1Nf/emin-n-muraldan.png",
+    "image20": "https://i.ibb.co/1tTXN0GV/emin-n-muraldan.png",
     "image20_coords_1": "1039,2030,1036,2103,1324,2103,1328,2030",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/GalataBridges",
     "image20_coords_2": "1448,695,1436,726,1426,759,1426,793,1436,827,1451,858,1479,889,1504,908,1544,917,1590,923,1627,914,1655,902,1676,883,1698,855,1717,827,1723,797,1723,750,1710,713,1689,679,1664,655,1627,636,1584,624,1541,630,1504,642,1470,670",
