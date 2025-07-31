@@ -490,7 +490,7 @@ const locations = [
     "image20_coords_2": "2764,1035,2904,1029,2983,1011,2995,1041,3026,1060,3063,1060,3069,1035,3050,1017,3099,1017,3166,1029,3221,1029,3258,1029,3294,1011,3282,980,3264,968,3246,950,3215,938,3154,931,3130,931,3142,870,3136,846,3111,901,3075,931,3014,931,2965,925,2916,919,2861,840,2843,852,2880,919,2867,938,2800,956,2794,968,2843,968,2904,962,2989,986",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniUcak",
     "image20_coords_3": "2562,1511,2501,1493,2483,1456,2495,1444,2538,1444,2550,1395,2550,1322,2544,1267,2550,1218,2574,1218,2599,1218,2611,1273,2611,1346,2605,1450,2654,1462,2684,1481,2690,1505,2672,1529,2623,1523,2593,1517,2593,1517",
-    "image20_link_3": "https://mappingmetabolismofistanbul.github.io/-stanbulHavalimaniKuzeyOrmanlari",
+    "image20_link_3": "https://mappingmetabolismofistanbul.github.io/-stanbulHavalimaniKule",
     "icon": "./images/ucakikonu.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
