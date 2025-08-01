@@ -481,6 +481,16 @@ const locations = [
     "infoBoxVideo": "",
     "infoBoxText": "",
  },
+    {
+    "title": "Üçüncü Köprü-Yavuz Sultan Selim Köprüsü",
+    "coordinates": [28.972,40.876],
+    "image19": "https://i.ibb.co/h1Lz9SRd/k-pekleranag-rsel-kopya.jpg",
+    "image19_coords_1": "962,1622,920,1608,929,1562,948,1534,971,1520,1004,1506,1041,1510,1065,1520,1107,1529,1139,1520,1163,1512,1177,1480,1214,1480,1247,1466,1270,1438,1284,1461,1275,1494,1270,1522,1303,1531,1312,1573,1312,1620,1317,1666,1317,1704,1303,1736,1256,1750,1191,1746,1144,1736,1111,1741,1065,1736,1018,1727,1032,1690,1023,1643,990,1615",
+    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/kopeklerhikaye/",
+    "icon": "https://iili.io/Fg8mc57.png",
+    "infoBoxVideo": "",
+    "infoBoxText": "",
+ },
      {
     "title": "İstanbul Havalimanı",
     "coordinates": [28.743,41.256],
