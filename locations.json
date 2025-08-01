@@ -133,16 +133,7 @@ const locations = [
     "icon": "https://i.ibb.co/7dhFw1V0/kolera-ikon.png",
     "infoBoxImage": "",
     "infoBoxText": "",
-},
-{
-    "title": "Louis Pasteur",
-    "coordinates": [28.979, 41.032],
-    "image19": "https://i.ibb.co/JRC5b50B/image-8.jpg",
-    "image19_coords_1": "1441,890,1435,995,1423,993,1415,965,1405,988,1391,1000,1394,1045,1407,1120,1444,1117,1446,1088,1458,1080,1487,1078,1523,1086,1551,1107,1572,1088,1585,1107,1598,1107,1596,1083,1606,1109,1609,1080,1618,1049,1608,1021,1572,1014,1572,962,1570,887",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKavak",
-    "icon": "https://i.ibb.co/7dhFw1V0/kolera-ikon.png",
-    "infoBoxImage": "",
-    "infoBoxText": "",
+
 },
 {
     "title": "Taksim Suyolu",
