@@ -107,9 +107,13 @@ const locations = [
 {
     "title": "Kolera / Kasımpaşa",
     "coordinates": [28.967,41.031],
-    "image19": "https://i.ibb.co/3mcRS4hY/MEF-AAP-027-BAP-2025-08-01-14-24-41.png",
+    "image19": "https://i.ibb.co/tSBrd51/MEF-AAP-027-BAP-2025-08-01-15-16-18.png",
     "image19_coords_1": "1441,890,1435,995,1423,993,1415,965,1405,988,1391,1000,1394,1045,1407,1120,1444,1117,1446,1088,1458,1080,1487,1078,1523,1086,1551,1107,1572,1088,1585,1107,1598,1107,1596,1083,1606,1109,1609,1080,1618,1049,1608,1021,1572,1014,1572,962,1570,887",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKasimpasa",
+    "image19_coords_2": "615,1036,615,1050,602,1057,591,1079,594,1115,610,1124,612,1160,621,1169,626,1111,634,1128,638,1158,649,1107,631,1075,654,1084,663,1079,633,1061,634,1034",
+    "image19_link_2": "https://mappingmetabolismofistanbul.github.io/KoleraLouisPasteur",
+    "image19_coords_3": "438,680,461,685,543,754,613,848,702,926,763,899,757,835,699,740,602,642,525,610,480,619,440,650,408,602,379,536,335,526,280,571,276,544,311,532,284,500,223,494,295,516,269,526,255,558,276,594,316,573,353,544,377,569,390,621,414,667",
+    "image19_link_3": "https://mappingmetabolismofistanbul.github.io/Kolera",
     "icon": "https://i.ibb.co/7dhFw1V0/kolera-ikon.png",
     "infoBoxImage": "",
     "infoBoxText": "",
@@ -117,7 +121,7 @@ const locations = [
 {
     "title": "Kuleli Tahaffuzhanesi",
     "coordinates": [29.054,41.059],
-    "image19": "https://i.ibb.co/3mcRS4hY/MEF-AAP-027-BAP-2025-08-01-14-24-41.png",
+    "image19": "https://i.ibb.co/tSBrd51/MEF-AAP-027-BAP-2025-08-01-15-16-18.png",
     "image19_coords_1": "1441,890,1435,995,1423,993,1415,965,1405,988,1391,1000,1394,1045,1407,1120,1444,1117,1446,1088,1458,1080,1487,1078,1523,1086,1551,1107,1572,1088,1585,1107,1598,1107,1596,1083,1606,1109,1609,1080,1618,1049,1608,1021,1572,1014,1572,962,1570,887",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKuleli",
     "icon": "https://i.ibb.co/7dhFw1V0/kolera-ikon.png",
@@ -127,7 +131,7 @@ const locations = [
 {
     "title": "Kavak Tahaffuzhanesi",
     "coordinates": [29.074,41.161],
-    "image19": "https://i.ibb.co/3mcRS4hY/MEF-AAP-027-BAP-2025-08-01-14-24-41.png",
+    "image19": "https://i.ibb.co/tSBrd51/MEF-AAP-027-BAP-2025-08-01-15-16-18.png",
     "image19_coords_1": "1441,890,1435,995,1423,993,1415,965,1405,988,1391,1000,1394,1045,1407,1120,1444,1117,1446,1088,1458,1080,1487,1078,1523,1086,1551,1107,1572,1088,1585,1107,1598,1107,1596,1083,1606,1109,1609,1080,1618,1049,1608,1021,1572,1014,1572,962,1570,887",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKavak",
     "icon": "https://i.ibb.co/7dhFw1V0/kolera-ikon.png",
