@@ -102,7 +102,7 @@ const locations = [
     "image21_link_5": "https://mappingmetabolismofistanbul.github.io/MaltepeCats",
     "image21_coords_6": "1934,1311,1875,1350,1860,1399,1841,1458,1865,1512,1919,1536,1949,1571,1959,1664,2003,1664,2003,1546,2062,1522,2096,1473,2101,1399,2067,1330,2003,1301",
     "image21_link_6": "https://mappingmetabolismofistanbul.github.io/MaltepeTrees",
-    "icon": "https://i.ibb.co/mCqS4jCC/s-reyya-icon.png",
+    "icon": "https://i.ibb.co/pBmq4C5b/s-reyya-giff.gif",
     "infoBoxImage": "./images/süreyya-giff.gif",
     "infoBoxText": ""
 },
@@ -602,6 +602,7 @@ const locations = [
     
 }
 ];
+
 
 
 
