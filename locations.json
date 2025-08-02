@@ -81,7 +81,7 @@ const locations = [
     "title": "Maltepe",
     "coordinates": [29.122957475156003,40.9259935252752],
     "image20": "https://i.ibb.co/Pz3JSc9x/s-reyya-ana.png",
-    "image21": "https://i.ibb.co/nM9Kz7cW/MEF-AAP-027-BAP-PART-II-2025-08-02-15-23-13.png",
+    "image21": "https://i.ibb.co/zhctdTB4/ana-imajjj.png",
     "image20_coords_1": "1783,990,1783,1201,2171,869,2171,769",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SureyyaBeach-I",
     "image20_coords_2": "1926,445,1889,441,1577,643,1603,650,1614,665,1636,661,1658,657,1684,668,1702,679,1698,698,1720,690,1742,712,1750,738,1798,753,1930,709,1955,712,1970,694,2007,687",
@@ -602,6 +602,7 @@ const locations = [
     
 }
 ];
+
 
 
 
