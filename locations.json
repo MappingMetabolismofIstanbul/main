@@ -40,6 +40,16 @@ const locations = [
     "infoBoxText": "",
 },
     {
+    "title": "Unkapanı-Eminönü Sahil Yolu",
+    "coordinates": [28.970205636925883,41.01800675926927],
+    "image20": "https://i.ibb.co/C5B6GCfJ/ana-imaj.png",
+    "image20_coords_1": "2729,1905,2647,1930,2553,1968,2502,1999,2483,2049,2458,2087,2395,2100,2320,2144,2288,2182,2288,2238,2326,2264,2395,2282,2509,2276,2609,2264,2761,2257,2849,2238,2968,2232,3075,2219,3163,2232,3245,2238,3346,2226,3415,2194,3459,2144,3485,2087,3478,2024,3434,1993,3340,1993,3245,2018,3170,1986,3075,1949,2975,1942,2912,1936,2849,1905,2792,1898",
+    "image20_link_1": "https://mappingmetabolismofistanbul.github.io/CoastalRoadsasMetabolicFlowofOil",
+    "icon": "https://i.ibb.co/FkmrJG2f/kazma.png",
+    "infoBoxVideo": "",
+    "infoBoxText": "",
+},
+    {
     "title": "Büyükdere Fidanlığı",
     "coordinates": [29.031167585316418,41.154215919908864],
     "image20": "https://i.ibb.co/PvmGvcR3/ana-imaj.png",
@@ -620,6 +630,7 @@ const locations = [
     
 }
 ];
+
 
 
 
