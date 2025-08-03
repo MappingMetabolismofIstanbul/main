@@ -209,7 +209,7 @@ const locations = [
     "image19_link_2": "https://mappingmetabolismofistanbul.github.io/HalkaliSuyoluSuTerazisi",
     "image19_coords_3": "288,192,417,370,471,365,493,472,506,516,582,701,562,898,681,947,690,1008,786,1035,829,997,883,1081,902,1110,919,1183,964,1173,957,1262,999,1342,1105,1375,1008,1326,973,1265,976,1215,987,1159,925,1167,924,1110,846,975,779,1014,701,997,703,941,585,884,587,798,590,750,589,730,589,677,573,629,562,594,544,550,514,493,493,447,490,413,503,402,487,369,479,348,422,359,360,269,302,188",
     "image19_link_3": "https://mappingmetabolismofistanbul.github.io/HalkaliSuyolu",
-    "icon": "https://i.ibb.co/NQPXxFt/suyollar-ikon-2907.png",
+    "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
 },
@@ -221,7 +221,7 @@ const locations = [
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/HamidiyeSuyolu",
     "image19_coords_2": "1069,1811,1067,1962,1097,1970,1192,1924,1194,1809",
     "image19_link_2": "https://mappingmetabolismofistanbul.github.io/HamidiyeSuyoluCesme",
-    "icon": "https://i.ibb.co/NQPXxFt/suyollar-ikon-2907.png",
+    "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
 },
@@ -237,7 +237,7 @@ const locations = [
     "image19_link_3": "https://mappingmetabolismofistanbul.github.io/CesmelerEsekVeSaka",
     "image19_coords_4": "172,252,178,285,444,275,446,252,411,238,341,226,334,117,314,114,316,222,271,247",
     "image19_link_4": "https://mappingmetabolismofistanbul.github.io/TerkosPompaIstasyonu",
-    "icon": "https://i.ibb.co/NQPXxFt/suyollar-ikon-2907.png",
+    "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",    
 },
@@ -251,7 +251,7 @@ const locations = [
     "image19_link_2": "https://mappingmetabolismofistanbul.github.io/KirkcesmeSuyoluKirkcesmeler",
     "image19_coords_3": "619,338,571,388,518,397,503,458,451,509,423,511,367,477,313,523,306,582,344,629,304,665,331,665,362,653,376,690,441,709,426,743,395,750,428,771,372,828,361,886,403,955,410,989,458,1010,451,1075,499,1110,471,1129,528,1163,570,1190,607,1198,666,1267,673,1302,667,1351,769,1380,793,1353,763,1364,683,1341,678,1265,660,1243,616,1195,604,1172,575,1176,521,1149,515,1126,497,1121,508,1098,460,1068,467,1007,449,980,422,974,418,941,389,930,377,886,384,830,428,794,442,758,437,735,439,686,397,687,372,650,341,646,358,620,321,581,331,521,361,497,390,496,402,509,426,520,445,517,478,498,504,479,522,442,518,418,541,406,565,407,586,393,597,379,616,354",
     "image19_link_3": "https://mappingmetabolismofistanbul.github.io/KirkCesmeSuyolu",
-    "icon": "https://i.ibb.co/NQPXxFt/suyollar-ikon-2907.png",
+    "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
 },
@@ -267,7 +267,7 @@ const locations = [
     "image19_link_3": "https://mappingmetabolismofistanbul.github.io/UskudarMaksemi",
     "image19_coords_4":"630,638,628,703,607,705,624,730,657,721,699,727,704,713,673,705,673,637",
     "image19_link_4": "https://mappingmetabolismofistanbul.github.io/UskudarSuTerazisi",
-    "icon": "https://i.ibb.co/NQPXxFt/suyollar-ikon-2907.png",
+    "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
 },
@@ -332,7 +332,7 @@ const locations = [
     "image21_link_2": "https://mappingmetabolismofistanbul.github.io/TreesofGezi",
     "image21_coords_3": "588,662,597,693,606,731,633,734,638,721,646,739,680,729,677,684,646,664,646,632,619,628",
     "image21_link_3": "https://mappingmetabolismofistanbul.github.io/-StrugglesResistances",
-    "icon": "https://i.ibb.co/1fdBS25p/gezi-icon.png",
+    "icon": "https://i.ibb.co/mVdbBG6V/a-a-icon.png",
     "infoBoxVideo": "",
     "infoBoxText": ""
 },
@@ -501,7 +501,7 @@ const locations = [
     "image19": "./images/Çayırlar.png",
     "image19_coords_1": "1515,359,1528,352,1540,342,1547,324,1547,300,1547,279,1549,255,1549,229,1543,217,1523,200,1509,189,1501,180,1516,167,1520,155,1515,142,1523,131,1528,115,1523,104,1509,97,1491,87,1474,74,1460,56,1449,46,1432,50,1420,50,1408,43,1305,40,1285,52,1257,64,1250,71,1247,83,1231,90,1220,100,1210,110,1188,126,1171,139,1158,150,1142,162,1127,181,1121,194,1100,194,1080,205,1068,214,1061,232,1049,252,1042,273,1035,291,1037,306,1045,318,1053,338,1041,361,1044,386,1044,410,1062,416,1079,423,1097,424,1113,411,1113,383,1114,366,1137,352,1149,360,1162,366,1180,367,1204,373,1234,376,1247,380,1254,387,1244,393,1219,400,1204,404,1200,412,1193,419,1189,432,1185,455,1196,465,1207,466,1220,450,1234,449,1259,448,1282,452,1299,463,1309,482,1322,508,1324,534,1327,570,1324,606,1327,623,1169,628,1118,630,1077,631,1058,627,1044,634,1030,634,1021,632,1010,625,1014,610,1021,599,1027,584,1024,570,1030,562,1042,563,1045,573,1042,583,1046,593,1051,603,1059,606,1065,603,1058,592,1063,580,1072,572,1082,573,1089,579,1086,589,1090,599,1103,607,1111,603,1117,587,1124,586,1128,586,1129,596,1134,606,1150,614,1159,618,1173,628,1205,627,1342,624,1342,604,1344,583,1345,559,1345,538,1348,531,1361,515,1379,503,1389,498,1390,511,1402,520,1414,522,1423,520,1435,518,1450,510,1459,497,1469,477,1471,459,1468,439,1465,422,1468,394,1466,369,1461,356,1447,345,1457,336,1468,335,1479,328,1496,328,1493,345,1500,357",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/Cayirlar",
-    "icon":"https://i.ibb.co/nMFQP8HV/tree-ikon2.png",
+    "icon":"https://i.ibb.co/mVdbBG6V/a-a-icon.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
       
@@ -638,6 +638,7 @@ const locations = [
     
 }
 ];
+
 
 
 
