@@ -180,14 +180,14 @@ const locations = [
 {
     "title": "Taksim Suyolu",
     "coordinates": [29.022,41.108],
-    "image19": "https://i.ibb.co/C503v865/MEF-AAP-027-BAP-2025-07-31-08-43-23.png",
-    "image19_coords_1": "519,329,498,347,499,372,516,381,531,382,546,377,553,364,553,345,538,330",
+    "image19": "https://i.ibb.co/XZNMCD80/MEF-AAP-027-BAP-2025-08-03-11-37-49.png",
+    "image19_coords_1": "970,241,936,241,934,276,956,300,983,284,987,259",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/YeniBend",
-    "image19_coords_2": "512,414,490,405,469,415,464,438,470,454,482,461,495,461,510,455,519,444,519,425",
+    "image19_coords_2": "952,347,936,323,906,323,897,339,908,374,936,372,950,366",
     "image19_link_2": "https://mappingmetabolismofistanbul.github.io/TopuzluBend",
-    "image19_coords_3": "410,1469,390,1471,370,1480,377,1503,392,1512,410,1512,421,1498,421,1485",
+    "image19_coords_3": "843,1464,832,1454,806,1450,798,1486,832,1486",
     "image19_link_3": "https://mappingmetabolismofistanbul.github.io/TaksimMaksemi",
-    "image19_coords_4": "555,1690,555,1748,555,1789,537,1809,537,1829,575,1827,626,1827,637,1811,610,1792,608,1762,604,1705,607,1690,578,1682",    
+    "image19_coords_4": "985,1670,987,1773,924,1788,946,1838,1011,1822,1100,1830,1110,1800,1058,1790,1056,1664",    
     "image19_link_4": "https://mappingmetabolismofistanbul.github.io/TaksimSuTerazisi",
     "image19_coords_5": "602,359,581,352,558,366,558,386,566,402,582,407,599,401,611,385",
     "image19_link_5": "https://mappingmetabolismofistanbul.github.io/ValideBendi",
@@ -634,6 +634,7 @@ const locations = [
     
 }
 ];
+
 
 
 
