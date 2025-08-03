@@ -42,8 +42,8 @@ const locations = [
     {
     "title": "Unkapanı-Eminönü Sahil Yolu",
     "coordinates": [28.970205636925883,41.01800675926927],
-    "image20": "https://i.ibb.co/C5B6GCfJ/ana-imaj.png",
-    "image20_coords_1": "2729,1905,2647,1930,2553,1968,2502,1999,2483,2049,2458,2087,2395,2100,2320,2144,2288,2182,2288,2238,2326,2264,2395,2282,2509,2276,2609,2264,2761,2257,2849,2238,2968,2232,3075,2219,3163,2232,3245,2238,3346,2226,3415,2194,3459,2144,3485,2087,3478,2024,3434,1993,3340,1993,3245,2018,3170,1986,3075,1949,2975,1942,2912,1936,2849,1905,2792,1898",
+    "image20": "https://i.ibb.co/5djZtGQ/emin-n-sahil-yolu-ana.png",
+    "image20_coords_1": "2879,1754,2617,2108,2467,2593,2336,2888,2126,3373,1936,3753,1838,3891,1792,4016,1700,4111,1071,4610,1071,5265,1104,5265,1562,4806,1648,4721,1792,4656,1923,4629,1995,4446,2185,4236,2231,4098,2434,3954,2571,3652,2722,3348,2722,3131,2748,3039,2886,2777,2932,2639,2932,2476,2951,2391,3115,2299,3377,2273,3521,2234,3580,2155,3757,2057,3849,2024,3548,2011,3567,1945,3521,1873",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/CoastalRoadsasMetabolicFlowofOil",
     "icon": "https://iili.io/Fgrmnz7.png",
     "infoBoxVideo": "",
@@ -63,7 +63,7 @@ const locations = [
     "image20_link_4": "https://mappingmetabolismofistanbul.github.io/BuyukdereTrainingInstitute",
     "image20_coords_5": "2467,1370,2457,1473,2447,1530,2406,1561,2406,1592,2509,1612,2575,1638,2648,1638,2828,1602,2936,1581,2910,1535,2792,1463,2689,1463,2617,1380,2483,1339",
     "image20_link_5": "https://mappingmetabolismofistanbul.github.io/BuyukderePresentDay",
-    "icon": "https://i.ibb.co/1fdBS25p/gezi-icon.png",
+    "icon": "https://i.ibb.co/mVdbBG6V/a-a-icon.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
 },
@@ -108,8 +108,8 @@ const locations = [
 {
     "title": "Maltepe",
     "coordinates": [29.122957475156003,40.9259935252752],
-    "image20": "https://i.ibb.co/Pz3JSc9x/s-reyya-ana.png",
-    "image21": "https://i.ibb.co/zhctdTB4/ana-imajjj.png",
+    "image20": "https://i.ibb.co/nKjW4mN/s-reyya.png",
+    "image21": "https://i.ibb.co/yFwMK4DC/MEF-AAP-027-BAP-PART-II-2025-08-03-12-51-45.png",
     "image20_coords_1": "1783,990,1783,1201,2171,869,2171,769",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SureyyaBeach-I",
     "image20_coords_2": "1926,445,1889,441,1577,643,1603,650,1614,665,1636,661,1658,657,1684,668,1702,679,1698,698,1720,690,1742,712,1750,738,1798,753,1930,709,1955,712,1970,694,2007,687",
@@ -195,7 +195,7 @@ const locations = [
     "image19_link_6": "https://mappingmetabolismofistanbul.github.io/TaksimSuYolu",
     "image19_coords_7": "768,1500,772,1606,788,1606,857,1573,853,1498",
     "image19_link_7": "https://mappingmetabolismofistanbul.github.io/TaksimCesmeler",
-    "icon": "https://i.ibb.co/NQPXxFt/suyollar-ikon-2907.png",
+    "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
 },
@@ -298,7 +298,7 @@ const locations = [
 {
     "title": "Moda",
     "coordinates": [29.026,40.980],
-    "image20": "https://i.ibb.co/B82zqB6/moda-ana.png",
+    "image20": "https://i.ibb.co/sdMNX6pg/moda.png",
     "image20_coords_1": "554,853,543,874,1932,881,1834,853,1335,853,1182,728,1370,728,1346,717,589,717,568,731,1119,728,1252,853",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/ModaBeach-I",
     "image20_coords_2": "1834,1136,1837,1153,1918,1153,1984,1157,2057,1160,2144,1160,2148,1153,2141,1143,2134,1132,2022,1136,1956,1136,1834,1136",
@@ -363,7 +363,7 @@ const locations = [
 {
     "title": "Florya",
     "coordinates": [28.787,40.972],
-    "image20": "https://i.ibb.co/trH6xjS/florya-ana.png",
+    "image20": "https://i.ibb.co/Zz7V2pPC/florya.png",
     "image20_coords_1": "2220,490,2151,494,2139,509,2144,518,2139,518,2073,549,2029,539,2008,549,2005,567,1998,570,1963,591,1967,636,2033,645,2095,607,2165,560,2187,565,2205,549,2253,549,2248,506",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/FloryaPlaj-",
     "image20_coords_2": "1074,579,1074,614,970,621,966,640,968,710,619,720,603,694,589,703,589,715,567,715,530,753,525,774,582,774,600,758,1067,760,1230,760,1237,739,1536,727,1567,652,1491,657,1489,603,1472,593,1425,593,1423,615,1173,617,1171,586,1164,577",
@@ -377,7 +377,7 @@ const locations = [
     {
     "title": "Salacak Plajı",
     "coordinates": [29.006593549352583,41.021440068757414],
-    "image20": " https://i.ibb.co/q3WPkWYp/salacak-ana.png",
+    "image20": "https://i.ibb.co/qMWp72Hr/salacak.png",
     "image20_coords_1": "1666,963,1735,1258,1941,1206,1874,921",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SalacakBeach",
     "icon": "https://i.ibb.co/mCqS4jCC/s-reyya-icon.png",
@@ -388,7 +388,7 @@ const locations = [
      {
     "title": "Büyükdere Plajı",
     "coordinates": [29.048957018415035,41.16311524230927],
-    "image20": " https://i.ibb.co/3PLT9M5/b-y-kdere-ana.png",
+    "image20": "https://i.ibb.co/nMVPcF9P/b-y-kdere-plaj.png",
     "image20_coords_1": "1357,457,1329,482,1297,506,1254,531,1205,545,1095,552,1095,577,1112,577,1112,701,1091,708,1095,772,1201,779,1247,779,1265,740,1286,751,1283,772,1332,779,1410,779,1566,790,1683,793,1683,538,1531,530,1478,537,1414,506",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/BuyukdereBeach-I",
     "image20_coords_2": "598,942,907,938,857,478,836,297,836,223,705,223,570,287,581,329,595,329,659,474,581,478,605,513,662,513",
@@ -436,7 +436,7 @@ const locations = [
     {
     "title": "Atatürk Bulvarı",
     "coordinates": [28.955975724055627,41.01659450670048],
-    "image20": "https://i.ibb.co/xtrdGJmT/MEF-AAP-027-BAP-2025-06-13-07-59-41.png ",
+    "image20": "https://i.ibb.co/VYyp3q4v/ATAT-RK-BULVARI-SON-YEN.png",
     "image20_coords_1": "3977,1256,3977,1297,4006,1314,4129,1297,4123,1238,4082,1238,4006,1250,3977,1256",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Kirkcesmeler",
     "image20_coords_2": "2439,923,2425,1001,2425,1107,2489,1129,2546,1115,2546,1001,2531,923,2482,909",
@@ -638,6 +638,7 @@ const locations = [
     
 }
 ];
+
 
 
 
