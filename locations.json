@@ -571,9 +571,11 @@ const locations = [
      {
     "title": "Boğaziçi Köprüsü",
     "coordinates": [29.033,41.046],
-    "image19": "https://i.ibb.co/h1Lz9SRd/k-pekleranag-rsel-kopya.jpg",
-    "image19_coords_1": "962,1622,920,1608,929,1562,948,1534,971,1520,1004,1506,1041,1510,1065,1520,1107,1529,1139,1520,1163,1512,1177,1480,1214,1480,1247,1466,1270,1438,1284,1461,1275,1494,1270,1522,1303,1531,1312,1573,1312,1620,1317,1666,1317,1704,1303,1736,1256,1750,1191,1746,1144,1736,1111,1741,1065,1736,1018,1727,1032,1690,1023,1643,990,1615",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/kopeklerhikaye/",
+    "image20": "./images/BogaziciKoprusuAnaImaj.png",
+    "image20_coords_1": "1718,1467,1814,1477,1951,1488,2020,1493,2031,1411,2002,1411,1994,1403,1970,1401,1922,1403,1896,1406,1888,1393,1880,1390,1861,1390,1821,1390,1816,1390,1803,1393,1803,1403,1792,1419,1739,1424,1718,1427,1718,1438,1708,1440,1705,1461",
+    "image20_link_1": "https://mappingmetabolismofistanbul.github.io/BogaziciKoprusuVapur",
+    "image20_coords_2":
+    "image20_link_2":
     "icon": "https://iili.io/Fgrmnz7.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
@@ -634,6 +636,7 @@ const locations = [
     
 }
 ];
+
 
 
 
