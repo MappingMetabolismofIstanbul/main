@@ -417,12 +417,12 @@ const locations = [
     {
     "title": "Gecekondular",
     "coordinates": [28.937,41.055],
-    "image20": "https://i.ibb.co/HQRLKTX/MEF-AAP-027-BAP-2025-07-26-21-50-52.jpg",
-    "image20_coords_1": "442,745,573,749,688,708,772,699,1033,767,1017,895,1005,932,1101,938,1101,1137,809,1146,806,1165,703,1171,716,1087,685,1034,654,1009,629,1019,647,1069,607,1137,610,963,529,944,511,910,427,888",
+    "image20": "https://i.ibb.co/Gfd9HfVy/MEF-AAP-027-BAP-2025-08-03-07-32-22.png",
+    "image20_coords_1": "434,725,446,875,617,937,630,1148,1109,1117,1090,1012,1016,899,1047,747,764,675,580,722",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Gecekondular1.link",
-    "image20_coords_2": "1630,1274,1763,1255,1779,1196,1785,1134,1741,1106,1704,1128,1679,1119,1636,1140,1617,1156",
+    "image20_coords_2": "1613,1121,1632,1255,1756,1227,1800,1171,1781,1080",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/GecekondularBriket",
-    "image20_coords_3": "2186,774,2133,811,2096,830,2108,870,2155,886,2229,895,2260,873,2410,870,2493,876,2518,873,2531,833,2518,789,2459,796,2428,771,2369,771,2313,746",
+    "image20_coords_3": "2183,750,2092,812,2124,868,2226,884,2273,856,2488,862,2522,840,2531,781,2469,772,2432,744,2354,759,2310,728",
     "image20_link_3": "https://mappingmetabolismofistanbul.github.io/GecekondularKatranliMusamba",
     "icon": "https://i.ibb.co/dJD89LC3/briket-ikon.png",
     "infoBoxVideo": "",
@@ -630,6 +630,7 @@ const locations = [
     
 }
 ];
+
 
 
 
