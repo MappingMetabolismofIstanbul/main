@@ -611,7 +611,7 @@ const locations = [
      {
     "title": "Haliç Köprüsü",
     "coordinates": [28.942,41.043],
-    "image20": "./images/BogaziciKoprusuAnaImaj.png",
+    "image20": "./images/HalicKoprusuAnaImaj.png",
     "image20_coords_1": "1718,1467,1814,1477,1951,1488,2020,1493,2031,1411,2002,1411,1994,1403,1970,1401,1922,1403,1896,1406,1888,1393,1880,1390,1861,1390,1821,1390,1816,1390,1803,1393,1803,1403,1792,1419,1739,1424,1718,1427,1718,1438,1708,1440,1705,1461",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/kopeklerhikaye/",
     "icon": "https://iili.io/Fgrmnz7.png",
@@ -664,6 +664,7 @@ const locations = [
     
 }
 ];
+
 
 
 
