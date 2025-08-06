@@ -175,6 +175,20 @@ const locations = [
     "icon": "https://i.ibb.co/35pLqy9R/kolera-ikon.png",
     "infoBoxImage": "",
     "infoBoxText": "",
+},
+{
+    "title": "D-100 Çevre Yolu",
+    "coordinates": [28.910,41.016],
+    "image20": "https://i.ibb.co/FbLMHnFT/MEF-AAP-027-BAP-2025-08-06-16-55-40.png",
+    "image20_coords_1": "1441,890,1435,995,1423,993,1415,965,1405,988,1391,1000,1394,1045,1407,1120,1444,1117,1446,1088,1458,1080,1487,1078,1523,1086,1551,1107,1572,1088,1585,1107,1598,1107,1596,1083,1606,1109,1609,1080,1618,1049,1608,1021,1572,1014,1572,962,1570,887",
+    "image20_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKavak",
+    "image20_coords_2": "613,1033,610,1052,594,1066,594,1097,597,1127,609,1142,620,1171,631,1152,646,1153,647,1116,639,1087,663,1087,646,1063,628,1034",
+    "image20_link_2": "https://mappingmetabolismofistanbul.github.io/KoleraLouisPasteur",
+    "image20_coords_3": "465,687,535,759,652,888,704,926,763,906,765,861,749,812,723,769,676,717,641,692,609,644,543,615,485,615,454,647,436,656,416,621,380,534,338,528,308,547,274,568,274,537,306,531,306,510,224,494,298,515,279,518,251,545,266,586,306,582,346,547,369,549,377,581,395,632,420,674,441,684",
+    "image20_link_3": "https://mappingmetabolismofistanbul.github.io/Kolera",
+    "icon": "https://iili.io/Fgrmnz7.png",
+    "infoBoxImage": "",
+    "infoBoxText": "",
 
 },
 {
@@ -638,6 +652,7 @@ const locations = [
     
 }
 ];
+
 
 
 
