@@ -206,21 +206,9 @@ const locations = [
 {
     "title": "Taksim Suyolu",
     "coordinates": [29.022,41.108],
-    "image19": "https://i.ibb.co/XZNMCD80/MEF-AAP-027-BAP-2025-08-03-11-37-49.png",
-    "image19_coords_1": "970,241,936,241,934,276,956,300,983,284,987,259",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/YeniBend",
-    "image19_coords_2": "952,347,936,323,906,323,897,339,908,374,936,372,950,366",
-    "image19_link_2": "https://mappingmetabolismofistanbul.github.io/TopuzluBend",
-    "image19_coords_3": "843,1464,832,1454,806,1450,798,1486,832,1486",
-    "image19_link_3": "https://mappingmetabolismofistanbul.github.io/TaksimMaksemi",
-    "image19_coords_4": "985,1670,987,1773,924,1788,946,1838,1011,1822,1100,1830,1110,1800,1058,1790,1056,1664",    
-    "image19_link_4": "https://mappingmetabolismofistanbul.github.io/TaksimSuTerazisi",
-    "image19_coords_5": "1031,258,999,270,995,305,1013,321,1033,317,1049,292",
-    "image19_link_5": "https://mappingmetabolismofistanbul.github.io/ValideBendi",
-    "image19_coords_6": "853,423,841,482,835,568,978,667,987,825,962,913,877,1032,928,1225,816,1326,845,1425,832,1441,826,1423,810,1375,800,1310,901,1220,883,1168,863,1123,861,1030,905,923,960,876,968,797,956,694,908,642,841,595,808,565,812,474,826,398,910,376",
-    "image19_link_6": "https://mappingmetabolismofistanbul.github.io/TaksimSuYolu",
-    "image19_coords_7": "768,1500,772,1606,788,1606,857,1573,853,1498",
-    "image19_link_7": "https://mappingmetabolismofistanbul.github.io/TaksimCesmeler",
+    "image19": "https://i.ibb.co/hJqQTYPz/MEF-AAP-027-BAP-2025-08-09-20-12-01.png",
+    "image19_coords_1": "982,286,965,367,932,405,875,445,852,504,875,529,865,565,875,588,906,599,974,649,1028,748,1012,916,948,962,921,1078,965,1139,993,1184,969,1243,980,1298,932,1304,913,1344,925,1442,892,1476,818,1508,915,1440,902,1333,917,1289,963,1278,959,1226,967,1174,938,1134,904,1100,909,1037,936,944,997,897,1007,828,1003,733,982,691,951,653,907,626,879,613,860,590,844,557,854,531,835,498,839,458,864,422,930,372",
+    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/TaksimSuyolu908",
     "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
@@ -668,6 +656,7 @@ const locations = [
     
 }
 ];
+
 
 
 
