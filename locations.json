@@ -499,7 +499,7 @@ const locations = [
     "title": "Hususi Deniz Banyosu",
     "coordinates": [29.051, 41.164],
     "image19": "https://i.ibb.co/gLRbqwLW/MEF-AAP-027-BAP-2025-08-08-22-34-54.png",
-    "image19_coords_1": "1112,633,1112,581,1144,588,1257,588,1257,566,1318,554,1362,555,1420,568,1412,580,1412,593,1412,612,1413,630",
+    "image19_coords_1": "1087,731,1087,680,1240,680,1234,660,1296,646,1339,646,1395,660,1395,734,1149,731",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/hususidenizbanyosu",
     "icon": "https://i.ibb.co/5xtVFV2B/Ads-z-tasar-m-5.png",
     "infoBoxVideo": "",
@@ -666,6 +666,7 @@ const locations = [
     
 }
 ];
+
 
 
 
