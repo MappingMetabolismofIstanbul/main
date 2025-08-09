@@ -274,15 +274,13 @@ const locations = [
 {
     "title": "Üsküdar Suyolu",
     "coordinates": [29.065,41.005],
-    "image19": "https://i.ibb.co/Q3R0KPFm/MEF-AAP-027-BAP-2025-08-03-11-28-32.png",
-    "image19_coords_1":"964,802,964,866,978,863,1017,840,1016,796",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/UskudarCesme",
-    "image19_coords_2":"1506,779,1493,837,1430,883,1410,906,1385,934,1367,999,1305,938,1332,1035,1309,1051,1231,995,1218,971,1182,995,1147,951,1087,974,1084,932,1041,903,1071,865,1037,870,1003,886,955,961,897,978,852,971,871,850,899,846,897,810,858,819,803,782,772,837,725,812,696,859,657,879,608,822,664,860,690,825,726,796,763,816,770,794,783,772,815,763,854,773,868,793,907,789,909,826,925,842,912,859,887,869,881,915,872,958,918,955,950,936,965,908,977,883,1000,872,1027,849,1049,823,1076,845,1074,899,1094,903,1119,903,1110,944,1160,935,1189,974,1241,951,1245,985,1308,1032,1301,989,1297,954,1298,926,1361,966,1377,909,1406,892,1449,848,1482,815",
-    "image19_link_2":"https://mappingmetabolismofistanbul.github.io/UskudarSuyolu",
-    "image19_coords_3":"521,691,515,746,573,756,570,703,548,674",
-    "image19_link_3": "https://mappingmetabolismofistanbul.github.io/UskudarMaksemi",
-    "image19_coords_4":"630,638,628,703,607,705,624,730,657,721,699,727,704,713,673,705,673,637",
-    "image19_link_4": "https://mappingmetabolismofistanbul.github.io/UskudarSuTerazisi",
+    "image19": "https://i.ibb.co/ZpDScNvX/MEF-AAP-027-BAP-2025-08-09-20-47-28.png",
+    "image19_coords_1":"810,558,837,521,877,506,926,509,916,544,916,604,895,589,904,522,865,531,819,564",
+    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/UskudarSuYolu908",
+    "image19_coords_2":"723,759,806,667,901,657,960,648,1016,642,1067,615,1071,636,1027,655,945,669,859,679,813,688,736,770",
+    "image19_link_2":"https://mappingmetabolismofistanbul.github.io/UskudarSuYolu908",
+    "image19_coords_3":"623,745,634,794,675,866,709,842,717,799,747,801,778,802,794,778,824,784,859,770,861,799,911,794,929,777,939,736,913,775,873,783,865,755,827,767,787,768,770,789,724,787,701,810,698,835,675,833",
+    "image19_link_3": "https://mappingmetabolismofistanbul.github.io/UskudarSuYolu908",
     "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
     "infoBoxText": "",
@@ -656,6 +654,7 @@ const locations = [
     
 }
 ];
+
 
 
 
