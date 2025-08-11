@@ -198,7 +198,7 @@ const locations = [
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/DenizYanginlari",
     "image20_coords_2": "2367,1456,2601,1512,2598,1261,2429,1220,2241,1267,2277,1290,2361,1302",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/DenizYanginlariPetrolIskeleleri",
-    "icon": "https://iili.io/Fgrmnz7.png",
+    "icon": "https://i.ibb.co/5XCnVLrv/deniz-yang-nlar-ikon.png",
     "infoBoxImage": "",
     "infoBoxText": "",
 
@@ -646,6 +646,7 @@ const locations = [
     
 }
 ];
+
 
 
 
