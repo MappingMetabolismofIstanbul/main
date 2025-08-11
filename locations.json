@@ -427,7 +427,7 @@ const locations = [
     {
     "title": "Gecekondular",
     "coordinates": [28.937,41.055],
-    "image20": "https://i.ibb.co/Gfd9HfVy/MEF-AAP-027-BAP-2025-08-03-07-32-22.png",
+    "image20": "https://i.ibb.co/MDtpbB82/MEF-AAP-027-BAP-2025-08-11-21-07-53.png",
     "image20_coords_1": "434,725,446,875,617,937,630,1148,1109,1117,1090,1012,1016,899,1047,747,764,675,580,722",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/Gecekondular1.link",
     "image20_coords_2": "1613,1121,1632,1255,1756,1227,1800,1171,1781,1080",
@@ -646,6 +646,7 @@ const locations = [
     
 }
 ];
+
 
 
 
