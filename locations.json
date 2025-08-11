@@ -408,17 +408,17 @@ const locations = [
     "title": "Silahtarağa Elektrik Santrali",
     "coordinates": [28.946, 41.067],
     "image20": "https://i.ibb.co/BD2CCFb/MEF-AAP-027-BAP-2025-08-11-20-56-40.png",
-    "image20_coords_1": "2495,984,3387,1251,3044,1376,3125,1485,3734,1327,3722,1525,3948,1525,3956,1283,3791,1267,3799,1218,3786,1186,3811,1122,3665,1061,3593,1118,3561,1089,3476,1150,3109,1041,2536,823",
+    "image20_coords_1": "2649,710,2596,892,3561,1170,3177,1303,3254,1392,3908,1227,3871,1436,4117,1469,4142,1206,3964,1186,3948,1130,3968,1013,3831,976,3762,1029,3694,1025,3625,1069",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantrali1.Link",
-    "image20_coords_2": "2721,1525,2685,1606,2733,1675,2810,1691,2870,1666,2899,1582,2846,1517,2850,1251,2782,1497",
+    "image20_coords_2": "2983,1133,2919,1456,2842,1488,2822,1533,2850,1601,2903,1637,2951,1629,3008,1577,3012,1488,2979,1432",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomurMavnasi",
-    "image20_coords_3": "239,915,159,972,151,1020,243,1049,373,1040,352,968,280,899",
+    "image20_coords_3": "268,818,183,911,272,975,373,967,409,947,401,858,369,814",
     "image20_link_3": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliCuruf",
-    "image20_coords_4": "1474,1355,1430,1485,1712,1452,2499,1392,2382,1323,2289,1279,2152,1247,2084,1331,1967,1343,1914,1275,1805,1259,1712,1376,1579,1347",
+    "image20_coords_4": "1805,1298,1660,1266,1599,1266,1527,1347,1535,1419,2608,1318,2519,1266,2414,1209,2318,1193,2241,1177,2184,1262,2059,1254,2011,1214,1934,1185",
     "image20_link_4": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
-    "image20_coords_5": "3956,1307,3948,1657,4166,1657,4158,1581,4190,1444,4146,1331,4109,1391,4073,1512,4025,1391,4012,1295",
+    "image20_coords_5": "4142,1206,4101,1598,4335,1585,4351,1477,4372,1352,4335,1247,4303,1291,4255,1452,4206,1440,4194,1291,4182,1231",
     "image20_link_5": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliCalisanlar",
-    "image20_coords_6": "441,456,562,508,603,552,635,561,651,524,982,637,986,548,1022,472,1022,379,934,351,845,339,720,331,611,311,449,343",
+    "image20_coords_6": "478,334,611,402,631,366,647,435,691,463,703,402,1038,544,1099,249,1010,241,1018,302,934,269,829,233,703,201,482,229",
     "image20_link_6": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliDekovilHatti",
     "icon": "https://i.ibb.co/8nqYyFxp/c-ruf-icon-png-deneme2.png",
     "infoBoxVideo": "",
@@ -646,6 +646,7 @@ const locations = [
     
 }
 ];
+
 
 
 
