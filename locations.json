@@ -391,7 +391,7 @@ const locations = [
      {
     "title": "Büyükdere Plajı",
     "coordinates": [29.048957018415035,41.16311524230927],
-    "image20": "https://i.ibb.co/nMVPcF9P/b-y-kdere-plaj.png",
+    "image20": "https://i.ibb.co/KjXr3Cb3/b-y-kdere-SON.png",
     "image20_coords_1": "1357,457,1329,482,1297,506,1254,531,1205,545,1095,552,1095,577,1112,577,1112,701,1091,708,1095,772,1201,779,1247,779,1265,740,1286,751,1283,772,1332,779,1410,779,1566,790,1683,793,1683,538,1531,530,1478,537,1414,506",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/BuyukdereBeach-I",
     "image20_coords_2": "598,942,907,938,857,478,836,297,836,223,705,223,570,287,581,329,595,329,659,474,581,478,605,513,662,513",
@@ -643,6 +643,7 @@ const locations = [
     
 }
 ];
+
 
 
 
