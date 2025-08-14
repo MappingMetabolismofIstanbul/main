@@ -304,7 +304,7 @@ const locations = [
     "image20": "https://i.ibb.co/PZq9K5bz/moda-SON.png",
     "image20_coords_1": "554,853,543,874,1932,881,1834,853,1335,853,1182,728,1370,728,1346,717,589,717,568,731,1119,728,1252,853",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/ModaBeach-I",
-    "image20_coords_2": "",
+    "image20_coords_2": "1814,1148,1819,1172,1854,1182,1984,1185,2067,1185,2131,1182,2155,1174,2166,1142,2190,1132,2219,1126,2224,1102,2206,1084,2176,1084,2059,1086,2032,1100,1960,1100,1955,1121,1920,1118,1902,1129,1859,1126,1827,1124",
     "image20_link_2": "https://mappingmetabolismofistanbul.github.io/ModaBeach-II",
     "icon": "https://i.ibb.co/q3Ly56n8/moda-icon.png",
     "infoBoxVideo": "",
@@ -643,6 +643,7 @@ const locations = [
     
 }
 ];
+
 
 
 
