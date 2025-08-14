@@ -52,7 +52,8 @@ const locations = [
     {
     "title": "Büyükdere Fidanlığı",
     "coordinates": [29.031167585316418,41.154215919908864],
-    "image20": "https://i.ibb.co/PvmGvcR3/ana-imaj.png",
+    "image20": "",
+    "image21": "",
     "image20_coords_1": "3807,1066,3765,1061,3709,1102,3662,1077,3642,1128,3611,1133,3611,1200,3570,1226,3595,1262,3662,1314,3693,1350,3740,1365,3817,1360,3879,1344,3915,1319,3956,1319,3977,1277,3961,1231,3930,1216,3941,1200,3992,1164,3956,1118,3904,1077,3894,1066,3843,1087,3822,1051",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/BuyukdereMeadow",
     "image20_coords_2": "1231,1432,1231,1664,1664,1669,1710,1427",
@@ -61,8 +62,8 @@ const locations = [
     "image20_link_3": "https://mappingmetabolismofistanbul.github.io/BuyukdereAviationActivities",
     "image20_coords_4": "2957,1767,2952,1756,2952,1736,3008,1736,3008,1653,3018,1581,3049,1545,3080,1545,3116,1587,3111,1653,3116,1736,3194,1690,3178,1617,3204,1576,3276,1581,3312,1664,3328,1731,3379,1731,3374,1643,3374,1571,3410,1514,3461,1520,3487,1587,3472,1726,3534,1736,3539,1767",
     "image20_link_4": "https://mappingmetabolismofistanbul.github.io/BuyukdereTrainingInstitute",
-    "image20_coords_5": "2467,1370,2457,1473,2447,1530,2406,1561,2406,1592,2509,1612,2575,1638,2648,1638,2828,1602,2936,1581,2910,1535,2792,1463,2689,1463,2617,1380,2483,1339",
-    "image20_link_5": "https://mappingmetabolismofistanbul.github.io/BuyukderePresentDay",
+    "image21_coords_1": "",
+    "image21_link_1": "https://mappingmetabolismofistanbul.github.io/BuyukderePresentDay",
     "icon": "https://i.ibb.co/mVdbBG6V/a-a-icon.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
@@ -642,6 +643,7 @@ const locations = [
     
 }
 ];
+
 
 
 
