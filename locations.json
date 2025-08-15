@@ -638,11 +638,12 @@ const locations = [
     "image21_coords_13": "3148,1234,3178,1173,3252,1173,3307,1155,3374,1137,3453,1119,3502,1112,3557,1131,3612,1149,3691,1192,3752,1222,3801,1241,3904,1283,4002,1308,4118,1332,4185,1350,4161,1417",
     "image21_link_13": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniKaradenizDolgu",
     "icon": "./images/ucakikonu.png",
-    "infoBoxVideo": "https://iili.io/FrE9RSe.gif",
+    "infoBoxVideo": "https://s3.ezgif.com/tmp/ezgif-3ee0e3fed19685.gif",
     "infoBoxText": "",
     
 }
 ];
+
 
 
 
