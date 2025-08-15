@@ -110,7 +110,7 @@ const locations = [
     "title": "Maltepe",
     "coordinates": [29.122957475156003,40.9259935252752],
     "image20": "https://i.ibb.co/YFryB4zT/s-reyya-SON.png",
-    "image21": "https://i.ibb.co/yFwMK4DC/MEF-AAP-027-BAP-PART-II-2025-08-03-12-51-45.png",
+    "image21": "https://i.ibb.co/VY8Xt67L/maltepe-dolgu-SON.png",
     "image20_coords_1": "1783,990,1783,1201,2171,869,2171,769",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SureyyaBeach-I",
     "image20_coords_2": "1926,445,1889,441,1577,643,1603,650,1614,665,1636,661,1658,657,1684,668,1702,679,1698,698,1720,690,1742,712,1750,738,1798,753,1930,709,1955,712,1970,694,2007,687",
@@ -313,8 +313,8 @@ const locations = [
     {
     "title": "Gezi Parkı",
     "coordinates": [28.986947810850292,41.03896911610457],
-    "image20": "https://i.ibb.co/v4Y1Tj49/abb.png",
-    "image21": "https://i.ibb.co/FMMP1j1/aa.png",
+    "image20": "https://i.ibb.co/WvvJpmBb/gezi-SON.png",
+    "image21": "https://i.ibb.co/60KWxYmt/gezi-21-SON.png",
     "image20_coords_1": "1476,875,1476,1337,2275,1333,2275,879",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/TaksimGeziPark",
     "image20_coords_2": "718,1154,696,1187,656,1223,641,1282,648,1348,667,1374,711,1381,707,1421,722,1465,681,1476,678,1509,714,1535,755,1542,791,1553,817,1586,850,1571,875,1535,875,1498,908,1520,927,1553,960,1553,993,1531,1011,1502,1022,1458,1022,1385,1011,1308,993,1267,927,1216,861,1172,817,1157,762,1146",
@@ -643,6 +643,7 @@ const locations = [
     
 }
 ];
+
 
 
 
