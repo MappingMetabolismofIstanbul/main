@@ -52,7 +52,7 @@ const locations = [
     {
     "title": "Büyükdere Fidanlığı",
     "coordinates": [29.031167585316418,41.154215919908864],
-    "image20": "https://i.ibb.co/nNMp032t/b-y-kderefidanl-SON.png",
+    "image20": "https://i.ibb.co/6RT9yX98/B-y-kdere-fidanl-SON.png",
     "image21": "https://i.ibb.co/yB8ztrYJ/b-y-kdere-fidanl-21-son.png",
     "image20_coords_1": "3807,1066,3765,1061,3709,1102,3662,1077,3642,1128,3611,1133,3611,1200,3570,1226,3595,1262,3662,1314,3693,1350,3740,1365,3817,1360,3879,1344,3915,1319,3956,1319,3977,1277,3961,1231,3930,1216,3941,1200,3992,1164,3956,1118,3904,1077,3894,1066,3843,1087,3822,1051",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/BuyukdereMeadow",
@@ -643,6 +643,7 @@ const locations = [
     
 }
 ];
+
 
 
 
