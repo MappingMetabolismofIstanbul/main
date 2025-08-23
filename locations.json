@@ -635,7 +635,7 @@ const locations = [
     "image21_link_11": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniUcuncuKopru",
      "image21_coords_12": "4960,1714,5039,1745,5112,1769,5167,1781,5210,1788,5277,1788,5332,1794,5387,1794,5448,1788,5485,1763,5515,1733,5546,1702,5576,1672,5607,1641,5558,1605,5497,1586,5454,1568,5399,1556,5344,1531,5295,1537,5247,1568,5180,1586,5106,1611,5027,1635,4960,1684",
     "image21_link_12": "https://mappingmetabolismofistanbul.github.io/-stanbulHavalimaniTasOcaklari",
-    "image21_coords_13": "3148,1234,3178,1173,3252,1173,3307,1155,3374,1137,3453,1119,3502,1112,3557,1131,3612,1149,3691,1192,3752,1222,3801,1241,3904,1283,4002,1308,4118,1332,4185,1350,4161,1417",
+    "image21_coords_13": "3310,1311,3522,1198,3629,1179,3835,1173,4004,1198,4204,1273,4317,1342,4429,1405,4511,1492,4504,1580,4311,1536,4192,1498,4110,1473,4010,1455,3791,1398,3604,1380,3429,1336",
     "image21_link_13": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniKaradenizDolgu",
     "icon": "./images/ucakikonu.png",
     "infoBoxVideo": "./images/havalimanigif.gif",
@@ -643,6 +643,7 @@ const locations = [
     
 }
 ];
+
 
 
 
