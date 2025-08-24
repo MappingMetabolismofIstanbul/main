@@ -138,7 +138,7 @@ const locations = [
 {
     "title": "Kolera / Kasımpaşa",
     "coordinates": [28.967,41.031],
-    "image19": "https://i.ibb.co/d4hpVcGW/MEF-AAP-027-BAP-2025-08-12-07-10-29.png",
+    "image19": "https://i.ibb.co/DD3WLnrs/MEF-AAP-027-BAP-2025-08-24-12-34-43.png",
     "image19_coords_1": "1531,1030,1533,1217,1586,1226,1632,1240,1657,1267,1689,1267,1703,1253,1708,1191,1662,1159,1666,1046,1664,1028",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKasimpasa",
     "image19_coords_2": "732,1183,720,1199,711,1229,722,1258,731,1307,759,1291,775,1251,761,1213,787,1219,752,1178",
@@ -152,7 +152,7 @@ const locations = [
 {
     "title": "Kuleli Tahaffuzhanesi",
     "coordinates": [29.054,41.059],
-    "image19": "https://i.ibb.co/d4hpVcGW/MEF-AAP-027-BAP-2025-08-12-07-10-29.png",
+    "image19": "https://i.ibb.co/DD3WLnrs/MEF-AAP-027-BAP-2025-08-24-12-34-43.png",
     "image19_coords_1": "1531,1030,1533,1217,1586,1226,1632,1240,1657,1267,1689,1267,1703,1253,1708,1191,1662,1159,1666,1046,1664,1028",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKuleli",
     "image19_coords_2": "732,1183,720,1199,711,1229,722,1258,731,1307,759,1291,775,1251,761,1213,787,1219,752,1178",
@@ -166,7 +166,7 @@ const locations = [
 {
     "title": "Kavak Tahaffuzhanesi",
     "coordinates": [29.074,41.161],
-    "image19": "https://i.ibb.co/d4hpVcGW/MEF-AAP-027-BAP-2025-08-12-07-10-29.png",
+    "image19": "https://i.ibb.co/DD3WLnrs/MEF-AAP-027-BAP-2025-08-24-12-34-43.png",
     "image19_coords_1": "1531,1030,1533,1217,1586,1226,1632,1240,1657,1267,1689,1267,1703,1253,1708,1191,1662,1159,1666,1046,1664,1028",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KoleraKavak",
     "image19_coords_2": "732,1183,720,1199,711,1229,722,1258,731,1307,759,1291,775,1251,761,1213,787,1219,752,1178",
@@ -642,6 +642,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
