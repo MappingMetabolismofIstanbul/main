@@ -404,7 +404,7 @@ const locations = [
     {
     "title": "Silahtarağa Elektrik Santrali",
     "coordinates": [28.946, 41.067],
-    "image20": "https://i.ibb.co/BD2CCFb/MEF-AAP-027-BAP-2025-08-11-20-56-40.png",
+    "image20": "https://i.ibb.co/XkK7hHgW/MEF-AAP-027-BAP-2025-08-24-11-49-33.png",
     "image20_coords_1": "2649,710,2596,892,3561,1170,3177,1303,3254,1392,3908,1227,3871,1436,4117,1469,4142,1206,3964,1186,3948,1130,3968,1013,3831,976,3762,1029,3694,1025,3625,1069",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantrali1.Link",
     "image20_coords_2": "2983,1133,2919,1456,2842,1488,2822,1533,2850,1601,2903,1637,2951,1629,3008,1577,3012,1488,2979,1432",
@@ -642,6 +642,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
