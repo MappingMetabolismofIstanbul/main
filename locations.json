@@ -634,7 +634,7 @@ const locations = [
     "image21_coords_11": "6211,3724,5491,3455,5485,3553,5405,3589,5417,3418,4508,3089,4441,3077,4423,3187,4380,3187,4380,3059,4246,2991,4173,2943,4124,2900,4130,2869,4179,2839,4216,2808,4222,2790,4173,2772,4008,2705,3166,2320,2776,2150,2501,2070,2300,2003,2093,1936,2001,1899,1873,1851,1702,1808,1592,1771,1415,1710,1336,1668,1312,1643,1495,1722,1641,1765,1696,1784,1800,1814,1952,1851,2062,1887,2184,1936,2263,1967,2422,2009,2574,2052,2739,2101,2947,2186,3105,2253,3246,2302,3398,2369,3648,2485,3898,2613,4270,2790,4277,2808,4240,2833,4209,2869,4191,2888,4191,2906,4216,2937,4283,2973,4319,2967,4362,2857,4399,2754,4417,2705,4423,2625,4466,2613,4508,2699,4655,2918,4728,3028,4783,3095,4832,3138,4905,3150,4972,3132,5051,3089,5186,3004,5417,2796,5478,2729,5491,2693,5521,2680,5552,2680,5558,2717,5637,2851,6021,3443,6131,3602,6259,3650",
     "image21_link_11": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniUcuncuKopru",
      "image21_coords_12": "4960,1714,5039,1745,5112,1769,5167,1781,5210,1788,5277,1788,5332,1794,5387,1794,5448,1788,5485,1763,5515,1733,5546,1702,5576,1672,5607,1641,5558,1605,5497,1586,5454,1568,5399,1556,5344,1531,5295,1537,5247,1568,5180,1586,5106,1611,5027,1635,4960,1684",
-    "image21_link_12": "https://mappingmetabolismofistanbul.github.io/-stanbulHavalimaniTasOcaklari",
+    "image21_link_12": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniTasOcak",
     "image21_coords_13": "3146,1239,3298,1147,3439,1105,3567,1117,3676,1141,3798,1178,3981,1239,4085,1287,4182,1367,4219,1440,3579,1312",
     "image21_link_13": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniKaradenizDolgu",
     "icon": "./images/ucakikonu.png",
@@ -642,6 +642,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
