@@ -264,8 +264,6 @@ const locations = [
     "title": "Üsküdar Suyolu",
     "coordinates": [29.065,41.005],
     "image19": "https://i.ibb.co/ZpDScNvX/MEF-AAP-027-BAP-2025-08-09-20-47-28.png",
-    "image19_coords_1":"810,558,837,521,877,506,926,509,916,544,916,604,895,589,904,522,865,531,819,564",
-    "image19_link_1": "https://mappingmetabolismofistanbul.github.io/UskudarSuYolu908",
     "image19_coords_2":"723,759,806,667,901,657,960,648,1016,642,1067,615,1071,636,1027,655,945,669,859,679,813,688,736,770",
     "image19_link_2":"https://mappingmetabolismofistanbul.github.io/UskudarSuYolu908",
     "image19_coords_3":"623,745,634,794,675,866,709,842,717,799,747,801,778,802,794,778,824,784,859,770,861,799,911,794,929,777,939,736,913,775,873,783,865,755,827,767,787,768,770,789,724,787,701,810,698,835,675,833",
@@ -642,6 +640,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
