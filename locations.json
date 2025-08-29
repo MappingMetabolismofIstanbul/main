@@ -264,7 +264,7 @@ const locations = [
     "title": "Üsküdar Suyolu",
     "coordinates": [29.065,41.005],
     "image19": "https://i.ibb.co/xtxwhYf0/MEF-AAP-027-BAP-2025-08-28-20-09-39.png",
-    "image19_coords_1":"1177,1340,1208,1416,1251,1512,1296,1527,1344,1487,1370,1439,1432,1442,1466,1442,1494,1379,1543,1391,1588,1391,1602,1425,1656,1425,1713,1416,1752,1334,1732,1323,1710,1357,1690,1388,1613,1399,1599,1357,1560,1360,1497,1351,1458,1405,1398,1402,1353,1402,1310,1493,1259,1470,1197,1337",
+    "image19_coords_1":"935,745,925,784,894,796,852,803,837,779,812,779,788,778,785,797,727,808,700,849,678,858,656,837,617,760,628,748,663,821,678,839,705,804,735,781,763,787,782,759,818,756,818,768,847,765,861,781,882,781,907,772",
     "image19_link_1":"https://mappingmetabolismofistanbul.github.io/UskudarSuYolu908",
     "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
     "infoBoxImage": "",
@@ -638,6 +638,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
