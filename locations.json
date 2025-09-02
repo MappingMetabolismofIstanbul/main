@@ -631,13 +631,14 @@ const locations = [
     "image21_link_11": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniUcuncuKopru",
      "image21_coords_12": "4960,1714,5039,1745,5112,1769,5167,1781,5210,1788,5277,1788,5332,1794,5387,1794,5448,1788,5485,1763,5515,1733,5546,1702,5576,1672,5607,1641,5558,1605,5497,1586,5454,1568,5399,1556,5344,1531,5295,1537,5247,1568,5180,1586,5106,1611,5027,1635,4960,1684",
     "image21_link_12": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniTasOcak",
-    "image21_coords_13": "3146,1239,3298,1147,3439,1105,3567,1117,3676,1141,3798,1178,3981,1239,4085,1287,4182,1367,4219,1440,3579,1312",
+    "image21_coords_13": "2811,1170,2872,1109,3006,1121,3225,1176,3317,1158,3420,1128,3530,1103,3615,1115,3731,1182,3847,1231,3957,1280,4182,1329,4286,1371,4469,1390,4511,1426,4566,1450,4511,1530,4103,1432,3963,1396,3652,1316,3786,1335,3512,1310,3439,1341,3341,1316,3256,1268",
     "image21_link_13": "https://mappingmetabolismofistanbul.github.io/IstanbulHavalimaniKaradenizDolgu",
     "icon": "./images/ucakikonu.png",
     "infoBoxVideo": "./images/havalimanigif.gif",
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
