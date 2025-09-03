@@ -273,7 +273,7 @@ const locations = [
 {
     "title": "Kuruçeşme Kömür Depoları",
     "coordinates": [29.037570,41.060769],
-    "image20": "https://i.ibb.co/fYVqsCtz/MEF-AAP-027-BAP-2025-08-24-12-25-36.png",
+    "image20": "https://i.ibb.co/LzjtcYpk/MEF-AAP-027-BAP-2025-09-03-18-53-12.png",
     "image20_coords_1": "1306,820,1418,860,1512,890,1589,900,1629,951,1727,953,1775,964,1775,999,1797,1012,1903,1007,1956,1004,1903,967,1871,927,1823,890,1767,927,1714,898,1679,874",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliKomur",
     "image20_coords_2": "2292,831,2223,903,2721,919,2777,844,2668,826",
@@ -638,6 +638,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
