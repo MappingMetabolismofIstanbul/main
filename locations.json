@@ -253,7 +253,7 @@ const locations = [
 {
     "title": "Kırkçeşme Suyolu",
     "coordinates": [28.911,41.076],
-    "image19": "https://i.ibb.co/qYPQm3ck/MEF-AAP-027-BAP-2025-09-02-17-35-39.png",
+    "image19": "https://i.ibb.co/pvy9qS61/MEF-AAP-027-BAP-2025-09-03-18-50-15.png",
     "image19_coords_1": "515,154,490,178,456,203,446,162,430,190,441,189,445,209,426,234,414,203,403,152,395,167,410,226,416,251,406,272,384,270,342,298,346,247,331,228,332,143,308,115,310,124,322,164,327,238,334,258,334,312,330,328,348,356,368,440,338,465,314,499,313,551,346,590,318,602,277,617,234,612,178,584,177,595,210,607,238,632,285,627,304,623,297,636,316,625,338,640,351,619,364,630,369,654,412,663,431,668,426,680,427,709,394,719,425,731,414,752,392,770,373,799,370,864,308,864,320,880,370,876,393,908,418,933,394,946,425,957,446,961,462,989,449,1033,491,1069,471,1097,511,1096,520,1126,575,1152,586,1153,542,1181,501,1235,476,1388,467,1422,483,1419,498,1398,488,1370,500,1299,516,1235,546,1206,585,1242,632,1296,604,1310,526,1346,534,1354,605,1327,637,1314,641,1283,562,1196,572,1187,591,1182,602,1160,612,1169,629,1174,652,1204,671,1231,668,1283,681,1312,742,1332,783,1343,804,1314,792,1298,773,1326,685,1301,686,1279,709,1279,727,1258,756,1264,763,1250,731,1243,694,1264,686,1227,661,1190,631,1161,616,1132,586,1138,558,1129,536,1115,524,1082,494,1084,520,1063,493,1039,465,1028,478,972,456,943,433,932,419,903,395,887,380,837,396,799,416,776,433,762,456,743,449,718,431,717,444,700,451,678,439,656,405,651,386,643,374,612,359,600,349,561,325,537,335,486,364,464,393,460,421,480,427,490,477,481,502,453,524,429,527,385,550,375,588,376,597,344,631,344,656,332,653,317,616,329,629,305,653,273,661,249,642,257,605,309,596,329,575,354,528,357,529,329,547,296,531,294,517,336,506,393,506,417,462,461,438,466,410,448,389,431,383,400,368,361,358,324,382,298,407,301,420,301,440,263,458,222,497,197,520,166",
     "image19_link_1": "https://mappingmetabolismofistanbul.github.io/KirkcesmeSuYolu808",
     "icon": "https://i.ibb.co/fGBktXjH/water-ropw.png",
@@ -638,6 +638,7 @@ const locations = [
     "infoBoxText": "2000-2020 yılları arasında 3. Havalimanı Proje Alanında Toprağın Metabolik Dolaşımı (2000–2020), Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan görselleştirme çalışmasında, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği ve toprak akışları değişimi incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen sürekli bir doldurma ve boşaltma hamlesi gözlemlenebilir. Bir başka deyişle, betonun dolaşımı ile toprağın dolaşımı kentin metabolizmasında birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
