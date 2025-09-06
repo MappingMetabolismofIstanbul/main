@@ -413,7 +413,7 @@ const locations = [
     "image20_link_5": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliCalisanlar",
     "image20_coords_6": "478,334,611,402,631,366,647,435,691,463,703,402,1038,544,1099,249,1010,241,1018,302,934,269,829,233,703,201,482,229",
     "image20_link_6": "https://mappingmetabolismofistanbul.github.io/SilahtaragaElektrikSantraliDekovilHatti",
-    "icon": "https://i.ibb.co/8nqYyFxp/c-ruf-icon-png-deneme2.png",
+    "icon": "https://i.ibb.co/df6b4BK/Ekran-g-r-nt-s-2025-01-11-171553-removebg-preview.png",
     "infoBoxVideo": "",
     "infoBoxText": "",
         },
@@ -638,6 +638,7 @@ const locations = [
     "infoBoxText": "3. Havalimanı Projesinde Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan çalışmada, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen “sürekli bir doldurma ve boşaltma” hamlesine rastlanır. Bir başka deyişle, kentin metabolizmasında betonun dolaşımı ile toprağın dolaşımı birbirine dolanıktır. / Metabolic FLow of Soil Metabolic Flows of Soil in the Context of the 3rd Airport Project (2000–2020), Metabolic FLow of Soil: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
