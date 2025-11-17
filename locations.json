@@ -180,7 +180,7 @@ const locations = [
 {
     "title": "D-100 Çevre Yolu",
     "coordinates": [28.910,41.016],
-    "image20": "https://i.ibb.co/Fkp6J76N/MEF-AAP-027-BAP-2025-08-11-19-21-13.png",
+    "image20": "https://i.ibb.co/sJmF5WNp/MEF-AAP-027-BAP-2025-11-17-19-10-25.png",
     "image20_coords_1": "351,1335,808,874,1009,577,1197,453,1312,302,1766,294,1987,504,2262,834,2267,1041,2430,1220,2488,1288,2416,1461,2508,1500,2427,1478,2390,1458,2472,1293,2248,1069,2239,834,1760,322,1323,336,1233,462,1037,582,970,680,906,795,841,873,738,974,640,1078,477,1232,382,1327",
     "image20_link_1": "https://mappingmetabolismofistanbul.github.io/CevreYolu",
     "image20_coords_2": "2620,1521,2460,1543,2463,1593,2528,1635,2564,1708,2679,1750,2738,1750,2752,1717,2788,1700,2864,1703,2897,1677,2959,1680,3037,1686,3057,1655,3057,1610,2998,1599,2928,1596,2858,1565,2785,1535",
@@ -638,6 +638,7 @@ const locations = [
     "infoBoxText": "3. Havalimanı Projesinde Toprağın Metabolik Dolaşımı: 2000 ve 2020 yılları arasında uydu fotoğraflarının çakıştırılması ile oluşturulan çalışmada, havalimanı proje alanı ve kuzeyindeki toprak hareketliliği incelendiğinde açık maden ocakları ve sulak alanlarda gerçekleşen “sürekli bir doldurma ve boşaltma” hamlesine rastlanır. Bir başka deyişle, kentin metabolizmasında betonun dolaşımı ile toprağın dolaşımı birbirine dolanıktır. / Metabolic Flows of Soil in the Context of the 3rd Airport Project: In the visualization study created by overlaying satellite images from the years 2000 and 2020, an examination of the airport project area and the changes in soil movement and flow in the northern part of the area reveals a continuous pattern of filling and emptying in open-pit mines and wetlands. In other words, the flow of concrete and the flow of soil are entangled within the metabolism of the city.",    
 }
 ];
+
 
 
 
